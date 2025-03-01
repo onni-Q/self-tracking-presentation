@@ -57,7 +57,7 @@ p {
 
 </style>
 
-<marquee class="marquee">Welcome to Our Super Cool Privacy Presentation!</marquee>
+<marquee class="marquee" style="width: 100%; scrollamount: 10;">“What if your Fitbit knew exactly what to say on a particular day to motivate you to get off the couch and run a 5K?” - Persado, Schwab 2017</marquee>
 
 <div class="section">
   <h1>Introduction</h1>
@@ -150,9 +150,62 @@ p {
 
   <h3>Self-Tracking</h3>
   <p>
-    Information about self tracking here.
+    <strong>Also known as:</strong>  “life-logging, quantified self, personal analytics, and personal informatics” (Lanzing 2019) 
   </p>
 
+  <p>
+  <strong>Definition:</strong> “the practice of quantifying behavior through extensive self-surveillance for the purpose of behavioral change”  (Lanzing 2019)
+  </p>
+  
+  <p>
+ <strong>How-to</strong>: wearable digital devices and/or smartphone apps + social media (external online platforms)
+
+  </p>
+ 
+  <p>
+  <strong>Examples:</strong>
+  </p>
+  
+  <p>
+  Strava: self-tracking & social network for athletes
+  </p>
+
+ <p>
+ Other Fitness apps: FitBit, Runkeeper
+  </p>
+  
+   <p>
+   Other self-tracking apps: DrinkLess, SleepCycle, Lose it, SexPositive, What to Expect, 23andMe, MySugr.
+  </p>
+  
+  <p>
+   <strong>Main attraction: </strong> personalized feedback and thus self-improvement (and empowerment) 
+  </p>
+  
+  <p>
+  <strong>Main concern:</strong> Big Data-driven personalized choice architectures
+  </p>
+  
+ <p>
+ “Big Data has enabled “personalized” choice architectures: choice architectures that are designed according to user data feedback. Personalized feedback in self-tracking is based on the analysis of large aggregates of (personal) information or “Big Data,” also referred to as personal analytics. The analysis aims to identify patterns and interesting correlations in the data. Based on the analysis, many devices, and apps make suggestions to their users about how they can change or improve their behavior, what choices to make.” (Lanzing 2019) 
+  </p>
+  
+   <p>
+   These are some interesting articles I found regarding self-tracking, feel free to take a look around!
+  </p>
+  
+   <p>
+   The Dark Side of Self-Tracking
+  </p>
+  
+  <p>
+  ‘The bot asked me four times a day how I was feeling’: is tracking everything actually good for us? 
+  </p>
+  
+  <p>
+  Everybody is a self-tracker 
+  </p>
+  
   <h3>Nudging and Hypernudging</h3>
   <p>
     So, nudging is when websites try to gently push you towards certain choices. Hypernudging? That's like nudging on steroids! We'll talk about how these techniques affect your privacy.

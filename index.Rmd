@@ -58,10 +58,10 @@ p {
 .y2k-quote {
   border: 3px dashed #008000; /* Green dashed border */
   background-color: #e0ffff; /* Light cyan background */
-  padding: 20px;
+  padding: 25px;
   font-family: 'Comic Sans MS', 'Comic Sans', cursive; /* Classic Y2K font */
   font-size: 1.2em; /* Slightly larger font */
-  line-height: 1.5;
+  line-height: 1.8;
   color: #00008b; /* Dark blue text */
   text-shadow: 1px 1px 2px #cccccc; /* Subtle text shadow for depth */
   border-radius: 10px; /*rounded corners*/
@@ -193,6 +193,11 @@ p {
  Other Fitness apps: <a href=“https://en.wikipedia.org/wiki/Fitbit”>FitBit</a>, <a href=“https://runkeeper.com/cms/start-running/”>Runkeeper</a>
   </p>
   
+ <div style="display: flex; align-items: center;">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWNtZHRtNzdtMTdzcWt6NXo4NGEyaGJkNjlhNWpicmtoMHI2NDB1aSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/5JOAtCLGugj3q/giphy.gif" alt="Animated GIF" style="max-height: 200px; margin-right: 10px;">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWc0amhuY3I0bXRoOTFpeW9peGtzdzlpMTJ0cDFkZWhnZDIwYmEwMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Q6ikViAiojf0bmU9PH/giphy.gif" alt="Animated GIF" style="max-height: 200px;">
+</div>
+
    <p class="y2k-quote">
   “Big Data has enabled “personalized” choice architectures: choice architectures that are designed according to user data feedback. Personalized feedback in self-tracking is based on the analysis of large aggregates of (personal) information or “Big Data,” also referred to as personal analytics. The analysis aims to identify patterns and interesting correlations in the data. Based on the analysis, many devices, and apps make suggestions to their users about how they can change or improve their behavior, what choices to make.” (Lanzing 2019)
 </p>
@@ -204,10 +209,6 @@ p {
   <p>
   <strong>Main concern:</strong> Big Data-driven personalized choice architectures
   </p>
-  
-<p class="quote">
-  “Big Data has enabled “personalized” choice architectures: choice architectures that are designed according to user data feedback. Personalized feedback in self-tracking is based on the analysis of large aggregates of (personal) information or “Big Data,” also referred to as personal analytics. The analysis aims to identify patterns and interesting correlations in the data. Based on the analysis, many devices, and apps make suggestions to their users about how they can change or improve their behavior, what choices to make.” (Lanzing 2019)
-</p>
   
    <p>
    These are some interesting articles I found regarding self-tracking, feel free to take a look around!
@@ -226,10 +227,22 @@ p {
   </p>
   
   <h3>Nudging and Hypernudging</h3>
+
+  <h4><i>Features of Nudging</i></h4>
   <p>
-    So, nudging is when websites try to gently push you towards certain choices. Hypernudging? That's like nudging on steroids! We'll talk about how these techniques affect your privacy.
+    So, nudging is when websites try to gently push you towards certain choices.
   </p>
-  <img src="https://media4.giphy.com/media/PkR8gPgc2mDlrMSgtu/giphy.gif?cid=ecf05e47n021111166666666666666666666666666666666666666666666666666666666666666r&ep=v1_gifs_search&rid=giphy" alt="Animated GIF" class="y2k-image">
+
+  <h4><i>Features of Hypernudging</i></h4>
+  <p>
+    Hypernudging? That's like nudging on steroids!
+  </p>
+
+  <h4><i>Nudge v.s. Hypernudging</i></h4>
+  <p>
+    We'll talk about how these techniques affect your privacy.
+  </p>
+  <img src="https://media4.giphy.com/media/PkR8gPgc2mDlrMSgtu/giphy.gif?cid=ecf05e47n0211111666666666666666666666666666666666666666666666666666666r&ep=v1_gifs_search&rid=giphy" alt="Animated GIF" class="y2k-image">
 
   <h3>Decisional and Informational Privacy</h3>
   <p>
@@ -239,7 +252,7 @@ p {
 </div>
 
 <div class="section">
-  <h2>Conclusion</h2>
+  <h2>Conclusion and Further Yappin Session</h2>
   <p>
     In conclusion, this paper shows us how important it is to be aware of privacy issues in the digital world. Let's all be more mindful of our online choices! Thanks for checking out my awesome website!
   </p>

@@ -61,13 +61,13 @@ p {
   <p>
     So, nudging is when websites try to gently push you towards certain choices. Hypernudging? That's like nudging on steroids! We'll talk about how these techniques affect your privacy.
   </p>
-  <img src="https://media.giphy.com/media/3o7TKTDN9W9vynjW00/giphy.gif" alt="Animated GIF" class="y2k-image">
+  <img src="https://media4.giphy.com/media/PkR8gPgc2mDlrMSgtu/giphy.gif?cid=ecf05e47n02111116666666666666666666666666666666666666666666666666666666666666666r&ep=v1_gifs_search&rid=giphy" alt="Animated GIF" class="y2k-image">
 
   <h3>Decisional and Informational Privacy</h3>
   <p>
     Decisional privacy is about your freedom to make choices. Informational privacy is about who gets to know what about you. We'll explore the differences and how they relate to the paper.
   </p>
-  <img src="https://media.giphy.com/media/l41Yw6J62x99h3d1u/giphy.gif" alt="Animated GIF" class="y2k-image">
+  <img src="https://media.giphy.com/media/arldiHgOAWyIw/giphy.gif?cid=ecf05e47my57pu9lp9cd6d5ji2dhg5soahm46wfqzey5qgzd&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Animated GIF" class="y2k-image">
 </div>
 
 <div class="section">
@@ -75,5 +75,5 @@ p {
   <p>
     In conclusion, this paper shows us how important it is to be aware of privacy issues in the digital world. Let's all be more mindful of our online choices! Thanks for checking out my awesome website!
   </p>
-  <img src="https://media.giphy.com/media/3o7TKTDN9W9vynjW00/giphy.gif" alt="Animated GIF" class="y2k-image">
+  <img src="https://media1.giphy.com/media/3o6fJd6iEkL8Ys7tsY/giphy.gif?cid=ecf05e47p598p918r07j559555077797888878888888888888r&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Animated GIF" class="y2k-image">
 </div>

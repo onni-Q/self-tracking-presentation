@@ -55,6 +55,25 @@ p {
     width: 25%;
 }
 
+.y2k-quote {
+  border: 3px dashed #008000; /* Green dashed border */
+  background-color: #e0ffff; /* Light cyan background */
+  padding: 20px;
+  font-family: 'Comic Sans MS', 'Comic Sans', cursive; /* Classic Y2K font */
+  font-size: 1.2em; /* Slightly larger font */
+  line-height: 1.5;
+  color: #00008b; /* Dark blue text */
+  text-shadow: 1px 1px 2px #cccccc; /* Subtle text shadow for depth */
+  border-radius: 10px; /*rounded corners*/
+}
+
+/*Optional, but adds to the chaotic feel*/
+.y2k-quote:hover{
+    background-color: #ffffe0; /*light yellow on hover*/
+    border-color: #ffd700; /*gold border on hover*/
+    color: #800080; /*purple text on hover*/
+}
+
 </style>
 
 <marquee class="marquee" style="width: 100%; scrollamount: 10;">“What if your Fitbit knew exactly what to say on a particular day to motivate you to get off the couch and run a 5K?” - Persado, Schwab 2017</marquee>
@@ -167,16 +186,16 @@ p {
   </p>
   
   <p>
-  Strava: self-tracking & social network for athletes
+  <a href=“https://www.strava.com/features”>Strava</a>: self-tracking & social network for athletes
   </p>
 
  <p>
- Other Fitness apps: FitBit, Runkeeper
+ Other Fitness apps: <a href=“https://en.wikipedia.org/wiki/Fitbit”>FitBit</a>, <a href=“https://runkeeper.com/cms/start-running/”>Runkeeper</a>
   </p>
   
-   <p>
-   Other self-tracking apps: DrinkLess, SleepCycle, Lose it, SexPositive, What to Expect, 23andMe, MySugr.
-  </p>
+   <p class="y2k-quote">
+  “Big Data has enabled “personalized” choice architectures: choice architectures that are designed according to user data feedback. Personalized feedback in self-tracking is based on the analysis of large aggregates of (personal) information or “Big Data,” also referred to as personal analytics. The analysis aims to identify patterns and interesting correlations in the data. Based on the analysis, many devices, and apps make suggestions to their users about how they can change or improve their behavior, what choices to make.” (Lanzing 2019)
+</p>
   
   <p>
    <strong>Main attraction: </strong> personalized feedback and thus self-improvement (and empowerment) 
@@ -186,24 +205,24 @@ p {
   <strong>Main concern:</strong> Big Data-driven personalized choice architectures
   </p>
   
- <p>
- “Big Data has enabled “personalized” choice architectures: choice architectures that are designed according to user data feedback. Personalized feedback in self-tracking is based on the analysis of large aggregates of (personal) information or “Big Data,” also referred to as personal analytics. The analysis aims to identify patterns and interesting correlations in the data. Based on the analysis, many devices, and apps make suggestions to their users about how they can change or improve their behavior, what choices to make.” (Lanzing 2019) 
-  </p>
+<p class="quote">
+  “Big Data has enabled “personalized” choice architectures: choice architectures that are designed according to user data feedback. Personalized feedback in self-tracking is based on the analysis of large aggregates of (personal) information or “Big Data,” also referred to as personal analytics. The analysis aims to identify patterns and interesting correlations in the data. Based on the analysis, many devices, and apps make suggestions to their users about how they can change or improve their behavior, what choices to make.” (Lanzing 2019)
+</p>
   
    <p>
    These are some interesting articles I found regarding self-tracking, feel free to take a look around!
   </p>
   
-   <p>
-   The Dark Side of Self-Tracking
+  <p>
+  <a href="https://www.fabrique.com/blog/dark-side-self-tracking/">The Dark Side of Self-Tracking</a>
+</p>
+  
+  <p>
+  <a href="https://www.theguardian.com/lifeandstyle/2025/feb/22/the-bot-asked-me-four-times-a-day-how-i-was-feeling-is-tracking-everything-actually-good-for-us">‘The bot asked me four times a day how I was feeling’: is tracking everything actually good for us?</a>
   </p>
   
   <p>
-  ‘The bot asked me four times a day how I was feeling’: is tracking everything actually good for us? 
-  </p>
-  
-  <p>
-  Everybody is a self-tracker 
+  <a href="https://www.freedomlab.com/posts/everybody-is-a-self-tracker">Everybody is a self-tracker</a>
   </p>
   
   <h3>Nudging and Hypernudging</h3>

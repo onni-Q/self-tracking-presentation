@@ -43,7 +43,7 @@ p {
 
 </style>
 
-<marquee class="marquee">Welcome to My Super Cool Privacy Presentation!</marquee>
+<marquee class="marquee">Welcome to Our Super Cool Privacy Presentation!</marquee>
 
 <div class="section">
   <h1>Introduction</h1>

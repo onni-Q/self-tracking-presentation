@@ -14,24 +14,24 @@ body {
 h1 {
   color: #FF8C00;
   text-shadow: 2px 2px #808080;
-  font-size: 2.5em; /* Increase h1 size */
+  font-size: 2.5em;
 }
 
 h2 {
   color: #FF8C00;
   text-shadow: 2px 2px #808080;
-  font-size: 2em; /* Increase h2 size */
+  font-size: 2em;
 }
 
 h3 {
   color: #FF8C00;
   text-shadow: 2px 2px #808080;
-  font-size: 1.5em; /* Increase h3 size */
+  font-size: 1.5em;
 }
 
 p {
   line-height: 1.5;
-  font-size: 1.2em; /* Increase paragraph size */
+  font-size: 1.2em;
 }
 
 .marquee {
@@ -65,89 +65,93 @@ p {
   <h3>New Tech and Mass Manipulation</h3>
 
   <p>
-    Concerns regarding potential mass manipulation arise as new technologies use our data to predict and monetize on our behaviors. There are quite a few examples.
+    Concerns regarding potential mass manipulation arise as new technologies use our data to predict and monetize on our behaviors. There are quite a few examples <strong>(links below)</strong>.
   </p>
 
   <img src="https://media4.giphy.com/media/E4cnIqDuNov1Pp10yC/giphy.gif?cid=ecf05e47w415f0p5r4v50444q807218z4155b41505r4v50444q807218z&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Animated GIF" class="y2k-image">
 
- <p>
+  <p>
     <a href="https://www.geekwire.com/2016/uber-redesigns-app-predict-riders-headed-give-car/" target="_blank">"Uber redesigns app to predict where riders are headed and give them more to do in the car"</a>
   </P>
 
   <p>
-  <a href="https://www.theguardian.com/technology/2014/oct/02/facebook-sorry-secret-psychological-experiment-users" target="_blank">The Facebook Experiment</a>
+    <a href="https://www.theguardian.com/technology/2014/oct/02/facebook-sorry-secret-psychological-experiment-users" target="_blank">The Facebook Experiment</a>
   </p>
 
   <p>
     <a href="https://noyb.eu/en/your-fitbit-useless-unless-you-consent-unlawful-data-sharing" target="_blank">FitBit Data Concerns</a>
   </p>
 
-
   <p>
     <a href="https://www.youtube.com/watch?v=iX8GxLP1FHo" target="_blank">Facebook and Cambridge Analytica (Trailer)</a>
   </p>
 
   <p>
-    Key Concepts:
+    <strong>Key Concepts:</strong>
   </p>
 
   <p>
-    Hypernudging: “drawing in Big Data to nudge individuals with personalized feedback to change their behavior” (Lanzing 2019)
+    <u>Hypernudging</u>: “drawing in Big Data to nudge individuals with personalized feedback to change their behavior” (Lanzing 2019)
   </p>
 
   <p>
-    Self-tracking: “Fuelled by real-time data, algorithms create personalized online choice architectures that aim to nudge individual users to effectively change their behavior. ” (Lanzing 2019)
+    <u>Self-tracking</u>: “Fuelled by real-time data, algorithms create personalized online choice architectures that aim to nudge individual users to effectively change their behavior. ” (Lanzing 2019)
   </p>
 
   <h3>Research Paper Outline</h3>
   <p>
-   Main goal: An ethical critique of self-tracking technologies and their data-collection-based algorithmic hypernudging. 
-  </p>
-  
-  <p>
-  Theoretical Framework: decisional privacy and informational privacy as complementary dimensions 
-  </p>
-  
-  <p>
-  Claim: self-tracking technologies and their hyper-nudging threatens individuals’ autonomy due to the fact that they violate both decisional and informational privacy.
-  </p>
-  
-  <p>
-  Four Steps: 
-  </p>
-  
-  <p>
-  Nudging v.s. Hypernudging 
-  <a href="https://link.springer.com/article/10.1007/s13347-018-0316-4" target="_blank">
-    (1.1 - 1.4)
-  </a>
-  </p>
-  
-  <p>
-  Re-evaluation of decisional privacy 
-  <a href="https://link.springer.com/article/10.1007/s13347-018-0316-4" target="_blank">
-    (1.5 -1.6)
-  </a>
+    <strong>Main goal:</strong> An ethical critique of self-tracking technologies and their data-collection-based algorithmic hypernudging.
   </p>
 
   <p>
-  Combination of informational privacy and decisional privacy 
-  <a href="https://link.springer.com/article/10.1007/s13347-018-0316-4" target="_blank">
-    (1.7 - 1.9)
-  </a>
-  </p>  
-  
-  <p>
-  Three potential objections
-  <a href="https://link.springer.com/article/10.1007/s13347-018-0316-4" target="_blank">
-    (1.10)
-  </a>
+    <strong>Theoretical Framework:</strong> decisional privacy and informational privacy as complementary dimensions
   </p>
-  
+
+  <p>
+    <strong>Claim:</strong> self-tracking technologies and their hyper-nudging threatens individuals’ autonomy due to the fact that they violate both decisional and informational privacy.
+  </p>
+
+  <p>
+    <strong>Four Steps:</strong>
+  </p>
+
+  <p>
+    Nudging v.s. Hypernudging
+    <a href="https://link.springer.com/article/10.1007/s13347-018-0316-4" target="_blank">
+      (1.1 - 1.4)
+    </a>
+  </p>
+
+  <p>
+    Re-evaluation of decisional privacy
+    <a href="https://link.springer.com/article/10.1007/s13347-018-0316-4" target="_blank">
+      (1.5 -1.6)
+    </a>
+  </p>
+
+  <p>
+    Combination of informational privacy and decisional privacy
+    <a href="https://link.springer.com/article/10.1007/s13347-018-0316-4" target="_blank">
+      (1.7 - 1.9)
+    </a>
+  </p>
+
+  <p>
+    Three potential objections
+    <a href="https://link.springer.com/article/10.1007/s13347-018-0316-4" target="_blank">
+      (1.10)
+    </a>
+  </p>
+
 </div>
 
 <div class="section">
   <h2>Main Body</h2>
+
+  <h3>Self-Tracking</h3>
+  <p>
+    Information about self tracking here.
+  </p>
 
   <h3>Nudging and Hypernudging</h3>
   <p>

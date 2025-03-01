@@ -75,15 +75,16 @@ p {
   </P>
 
   <p>
-    The Facebook Experiment
+  <a href="https://www.theguardian.com/technology/2014/oct/02/facebook-sorry-secret-psychological-experiment-users" target="_blank">The Facebook Experiment</a>
   </p>
 
   <p>
-    FitBit Data Concerns
+    <a href="https://noyb.eu/en/your-fitbit-useless-unless-you-consent-unlawful-data-sharing" target="_blank">FitBit Data Concerns</a>
   </p>
 
+
   <p>
-    Facebook and Cambridge Analytica (Trailer)
+    <a href="https://www.youtube.com/watch?v=iX8GxLP1FHo" target="_blank">Facebook and Cambridge Analytica (Trailer)</a>
   </p>
 
   <p>

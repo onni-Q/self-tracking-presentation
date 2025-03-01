@@ -6,7 +6,7 @@ output: html_document
 <style>
 body {
   background-color: #CCFFFF;
-  font-family: "Comic Sans MS", cursive, sans-serif;
+  font-family: "Comic Sans MS", cursive, sans-serif, Arial, Helvetica, sans-serif;
   color: #9370DB;
   margin: 20px;
 }
@@ -115,6 +115,10 @@ p {
 
   <p>
     <u>Self-tracking</u>: “Fuelled by real-time data, algorithms create personalized online choice architectures that aim to nudge individual users to effectively change their behavior. ” (Lanzing 2019)
+  </p>
+  
+  <p>
+  *what is a <heavy>"<a href=“https://thedecisionlab.com/reference-guide/psychology/choice-architecture”>choice architecture</a>"</heavy> anyway? 
   </p>
 
   <h3>Research Paper Outline</h3>
@@ -230,9 +234,65 @@ p {
 
   <h4><i>Features of Nudging</i></h4>
   <p>
-    So, nudging is when websites try to gently push you towards certain choices.
+  2 <heavy>ideal</heavy> features:
   </p>
 
+  <p>
+  I.Do not compromise individual freedom and autonomy. 
+  </p>
+  
+  <p>
+  II.Do not reduce/eliminate options, simply re-arranging the individual’s choice architecture so it favors specific options.
+  </p>
+  
+  <p>
+  1 critique:
+  </p>
+  
+  <p>
+  Potentially <heavy><i>manipulative</i></heavy>
+  </p>
+  
+  <p>
+  Quote: “Manipulation, as I understand it here, refers to the intentional but “hidden” steering of people’s choices by promoting and shaping decision-making processes that persons generally would not use for making rational decisions (Wilkinson 2013: 347; Goodin 1980: 17).”
+  </p>
+  
+  <p>
+  How do nudges work?
+  </p>
+  
+  <p>
+  Nudges influence and steer decision-making via <u>psychological mechanisms</u>.
+  </p>
+  
+  <p>
+  What are bad nudges?
+  </p>
+  
+  <p>
+  I.Bad nudges rip the individual off their <heavy>control</heavy> over their behaviors. 
+  </p>
+  
+  <p>
+  II.Bad nudges are <heavy>hardly noticeable</heavy> and their intentions are opaque, which could be potentially manipulative.
+  </p>
+  
+  <p>
+  What are good nudges? 
+  </p>
+  
+  <p>
+  I.Good nudges are transparent and straightforward. 
+  </p>
+  
+  <p>
+  II.Good nudges are easy to opt out of. 
+  </p>
+  
+  <p>
+  III.Good nudges intend to improve the welfare of the nudgee.
+  </p>
+  
   <h4><i>Features of Hypernudging</i></h4>
   <p>
     Hypernudging? That's like nudging on steroids!

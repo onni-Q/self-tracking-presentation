@@ -119,20 +119,29 @@ p {
   <p>
   Nudging v.s. Hypernudging 
   <a href="https://link.springer.com/article/10.1007/s13347-018-0316-4" target="_blank">
-    (See "1.2 Features of Nudging" section for more context)
+    (1.1 - 1.4)
   </a>
-</p>
+  </p>
   
   <p>
   Re-evaluation of decisional privacy 
+  <a href="https://link.springer.com/article/10.1007/s13347-018-0316-4" target="_blank">
+    (1.5 -1.6)
+  </a>
   </p>
 
   <p>
   Combination of informational privacy and decisional privacy 
+  <a href="https://link.springer.com/article/10.1007/s13347-018-0316-4" target="_blank">
+    (1.7 - 1.9)
+  </a>
   </p>  
   
   <p>
   Three potential objections
+  <a href="https://link.springer.com/article/10.1007/s13347-018-0316-4" target="_blank">
+    (1.10)
+  </a>
   </p>
   
 </div>

@@ -11,13 +11,27 @@ body {
   margin: 20px;
 }
 
-h1, h2, h3 {
+h1 {
   color: #FF8C00;
   text-shadow: 2px 2px #808080;
+  font-size: 2.5em; /* Increase h1 size */
+}
+
+h2 {
+  color: #FF8C00;
+  text-shadow: 2px 2px #808080;
+  font-size: 2em; /* Increase h2 size */
+}
+
+h3 {
+  color: #FF8C00;
+  text-shadow: 2px 2px #808080;
+  font-size: 1.5em; /* Increase h3 size */
 }
 
 p {
   line-height: 1.5;
+  font-size: 1.2em; /* Increase paragraph size */
 }
 
 .marquee {
@@ -49,36 +63,39 @@ p {
   <h1>Introduction</h1>
 
   <h3>New Tech and Mass Manipulation</h3>
-  
-   <p>
-  Concerns regarding potential mass manipulation arise as new technologies use our data to predict and monetize on our behaviors. There are quite a few examples. 
-  </p>
-  
-  <img src="https://media4.giphy.com/media/E4cnIqDuNov1Pp10yC/giphy.gif?cid=ecf05e47w415f0p5r4v50444q807218z4155b41505r4v50444q807218z&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Animated GIF" class="y2k-image">
 
   <p>
-  "Uber redesigns app to predict where riders are headed and give them more to do in the car"
+    Concerns regarding potential mass manipulation arise as new technologies use our data to predict and monetize on our behaviors. There are quite a few examples.
+  </p>
+
+  <img src="https://media4.giphy.com/media/E4cnIqDuNov1Pp10yC/giphy.gif?cid=ecf05e47w415f0p5r4v50444q807218z4155b41505r4v50444q807218z&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Animated GIF" class="y2k-image">
+
+ <p>
+    <a href="https://www.geekwire.com/2016/uber-redesigns-app-predict-riders-headed-give-car/" target="_blank">"Uber redesigns app to predict where riders are headed and give them more to do in the car"</a>
   </P>
-  
+
   <p>
-   The Facebook Experiment 
+    The Facebook Experiment
   </p>
-  
+
   <p>
-  FitBit Data Concerns
+    FitBit Data Concerns
   </p>
-  
+
   <p>
-  Facebook and Cambridge Analytica (Trailer)
+    Facebook and Cambridge Analytica (Trailer)
   </p>
-  
+
   <p>
-  Key Concepts:
+    Key Concepts:
   </p>
-  
+
   <p>
-  Hypernudging: “drawing in Big Data to nudge individuals with personalized feedback to change their behavior” (Lanzing 2019) 
-Self-tracking: “Fuelled by real-time data, algorithms create personalized online choice architectures that aim to nudge individual users to effectively change their behavior. ” (Lanzing 2019)
+    Hypernudging: “drawing in Big Data to nudge individuals with personalized feedback to change their behavior” (Lanzing 2019)
+  </p>
+
+  <p>
+    Self-tracking: “Fuelled by real-time data, algorithms create personalized online choice architectures that aim to nudge individual users to effectively change their behavior. ” (Lanzing 2019)
   </p>
 
   <h3>Research Paper Outline</h3>
@@ -94,7 +111,7 @@ Self-tracking: “Fuelled by real-time data, algorithms create personalized onli
   <p>
     So, nudging is when websites try to gently push you towards certain choices. Hypernudging? That's like nudging on steroids! We'll talk about how these techniques affect your privacy.
   </p>
-  <img src="https://media4.giphy.com/media/PkR8gPgc2mDlrMSgtu/giphy.gif?cid=ecf05e47n0211111666666666666666666666666666666666666666666666666666666666666666r&ep=v1_gifs_search&rid=giphy" alt="Animated GIF" class="y2k-image">
+  <img src="https://media4.giphy.com/media/PkR8gPgc2mDlrMSgtu/giphy.gif?cid=ecf05e47n021111166666666666666666666666666666666666666666666666666666666666666r&ep=v1_gifs_search&rid=giphy" alt="Animated GIF" class="y2k-image">
 
   <h3>Decisional and Informational Privacy</h3>
   <p>

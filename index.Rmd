@@ -1,0 +1,78 @@
+---
+title: "'Strongly Recommended' Revisiting Decisional Privacy to Judge Hypernudging in Self-Tracking Technologies"
+output: html_document
+---
+
+<style>
+body {
+  background-color: #CCFFFF; /* Light cyan background */
+  font-family: "Comic Sans MS", cursive, sans-serif; /* If Comic Sans is available */
+  color: #000080; /* Dark blue text */
+  margin: 20px;
+}
+
+h1, h2, h3 {
+  color: #FF00FF; /* Bright magenta headings */
+  text-shadow: 2px 2px #808080; /* Simple shadow */
+}
+
+p {
+  line-height: 1.5;
+}
+
+.marquee {
+  background-color: #FFFF00; /* Bright yellow */
+  color: #FF0000; /* Bright red */
+  padding: 5px;
+  border: 2px dashed #000000; /* Dashed border */
+}
+
+.section {
+  background-color: #FFFFFF; /* White sections */
+  padding: 15px;
+  border: 3px double #000000; /* Double border */
+  margin-bottom: 20px;
+}
+
+.y2k-image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+}
+
+</style>
+
+<marquee class="marquee">Welcome to My Super Cool Privacy Presentation!</marquee>
+
+<div class="section">
+  <h1>Introduction</h1>
+  <p>
+    Hey there! This website is all about a super important research paper on privacy. We're gonna dive deep into how things like nudging and informational privacy work. Get ready for some awesome insights!
+  </p>
+  <img src="https://media.giphy.com/media/l41YfykEff9Y9xeg0/giphy.gif" alt="Animated GIF" class="y2k-image">
+</div>
+
+<div class="section">
+  <h2>Main Body</h2>
+
+  <h3>Nudging and Hypernudging</h3>
+  <p>
+    So, nudging is when websites try to gently push you towards certain choices. Hypernudging? That's like nudging on steroids! We'll talk about how these techniques affect your privacy.
+  </p>
+  <img src="https://media.giphy.com/media/3o7TKTDN9W9vynjW00/giphy.gif" alt="Animated GIF" class="y2k-image">
+
+  <h3>Decisional and Informational Privacy</h3>
+  <p>
+    Decisional privacy is about your freedom to make choices. Informational privacy is about who gets to know what about you. We'll explore the differences and how they relate to the paper.
+  </p>
+  <img src="https://media.giphy.com/media/l41Yw6J62x99h3d1u/giphy.gif" alt="Animated GIF" class="y2k-image">
+</div>
+
+<div class="section">
+  <h2>Conclusion</h2>
+  <p>
+    In conclusion, this paper shows us how important it is to be aware of privacy issues in the digital world. Let's all be more mindful of our online choices! Thanks for checking out my awesome website!
+  </p>
+  <img src="https://media.giphy.com/media/3o7TKTDN9W9vynjW00/giphy.gif" alt="Animated GIF" class="y2k-image">
+</div>

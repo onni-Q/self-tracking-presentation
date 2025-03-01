@@ -29,6 +29,12 @@ body {
   text-size-adjust: 100%;
 }
 
+@media (max-width: 768px) {
+  body {
+    font-size: 1em; /* Adjust font size for smaller screens */
+  }
+}
+
 h1 {
   color: #FF8C00;
   text-shadow: 2px 2px #808080;

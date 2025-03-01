@@ -7,12 +7,12 @@ output: html_document
 body {
   background-color: #CCFFFF; /* Light cyan background */
   font-family: "Comic Sans MS", cursive, sans-serif; /* If Comic Sans is available */
-  color: #000080; /* Dark blue text */
+  color: #9370DB; /* mediumpurple text */
   margin: 20px;
 }
 
 h1, h2, h3 {
-  color: #FF00FF; /* Bright magenta headings */
+  color: #FF8C00; /* Dark orange headings */
   text-shadow: 2px 2px #808080; /* Simple shadow */
 }
 
@@ -50,7 +50,8 @@ p {
   <p>
     Hey there! This website is all about a super important research paper on privacy. We're gonna dive deep into how things like nudging and informational privacy work. Get ready for some awesome insights!
   </p>
-  <img src="https://media.giphy.com/media/l41YfykEff9Y9xeg0/giphy.gif" alt="Animated GIF" class="y2k-image">
+  <img src="https://media4.giphy.com/media/E4cnIqDuNov1Pp10yC/giphy.gif?cid=ecf05e47w415f0p5r4v50444q807218z4155b41505r4v50444q807218z&ep=v1_gifs_search&rid=giphy.gif&ct=g
+" alt="Animated GIF" class="y2k-image">
 </div>
 
 <div class="section">

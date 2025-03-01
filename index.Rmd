@@ -101,8 +101,40 @@ p {
 
   <h3>Research Paper Outline</h3>
   <p>
-    We'll explore nudging and hypernudging, and then dive into decisional and informational privacy.
+   Main goal: An ethical critique of self-tracking technologies and their data-collection-based algorithmic hypernudging. 
   </p>
+  
+  <p>
+  Theoretical Framework: decisional privacy and informational privacy as complementary dimensions 
+  </p>
+  
+  <p>
+  Claim: self-tracking technologies and their hyper-nudging threatens individuals’ autonomy due to the fact that they violate both decisional and informational privacy.
+  </p>
+  
+  <p>
+  Four Steps: 
+  </p>
+  
+  <p>
+  Nudging v.s. Hypernudging 
+  <a href="https://link.springer.com/article/10.1007/s13347-018-0316-4" target="_blank">
+    (See "1.2 Features of Nudging" section for more context)
+  </a>
+</p>
+  
+  <p>
+  Re-evaluation of decisional privacy 
+  </p>
+
+  <p>
+  Combination of informational privacy and decisional privacy 
+  </p>  
+  
+  <p>
+  Three potential objections
+  </p>
+  
 </div>
 
 <div class="section">

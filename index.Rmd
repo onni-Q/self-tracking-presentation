@@ -29,11 +29,6 @@ body {
   text-size-adjust: 100%;
 }
 
-@media (max-width: 768px) {
-  body {
-    font-size: 1em; /* Adjust font size for smaller screens */
-  }
-}
 
 h1 {
   color: #FF8C00;
@@ -256,29 +251,30 @@ p {
   
   <h3>Nudging and Hypernudging</h3>
 
-  <h4><i>Features of Nudging</i></h4>
-  <p>
-  2 <heavy>ideal</heavy> features:
-  </p>
-
-  <p>
-  I.Do not compromise individual freedom and autonomy. 
-  </p>
-  
-  <p>
-  II.Do not reduce/eliminate options, simply re-arranging the individual’s choice architecture so it favors specific options.
-  </p>
-  
-  <p>
+ <h4><strong><em>Features of Nudging</em></strong></h4>
+ 
+ <p>
   1 critique:
   </p>
   
   <p>
-  Potentially <heavy><i>manipulative</i></heavy>
+  Potentially <u>manipulative</u>
   </p>
   
+  <p class="y2k-quote">
+ “Manipulation, as I understand it here, refers to the intentional but “hidden” steering of people’s choices by promoting and shaping decision-making processes that persons generally would not use for making rational decisions (Wilkinson 2013: 347; Goodin 1980: 17).” (Lanzing 2019)
+</p>
+
   <p>
-  Quote: “Manipulation, as I understand it here, refers to the intentional but “hidden” steering of people’s choices by promoting and shaping decision-making processes that persons generally would not use for making rational decisions (Wilkinson 2013: 347; Goodin 1980: 17).”
+  2 <heavy>ideal</heavy> features:
+  </p>
+
+  <p style="margin-left: 20px;">
+  I.Do not compromise individual freedom and autonomy. 
+  </p>
+  
+  <p style="margin-left: 20px;">
+  II.Do not reduce/eliminate options, simply re-arranging the individual’s choice architecture so it favors specific options.
   </p>
   
   <p>
@@ -293,11 +289,11 @@ p {
   What are bad nudges?
   </p>
   
-  <p>
+  <p style="margin-left: 20px;">
   I.Bad nudges rip the individual off their <heavy>control</heavy> over their behaviors. 
   </p>
   
-  <p>
+  <p style="margin-left: 20px;">
   II.Bad nudges are <heavy>hardly noticeable</heavy> and their intentions are opaque, which could be potentially manipulative.
   </p>
   
@@ -305,34 +301,156 @@ p {
   What are good nudges? 
   </p>
   
-  <p>
+  <p style="margin-left: 20px;">
   I.Good nudges are transparent and straightforward. 
   </p>
   
-  <p>
+  <p style="margin-left: 20px;">
   II.Good nudges are easy to opt out of. 
   </p>
   
-  <p>
+  <p style="margin-left: 20px;">
   III.Good nudges intend to improve the welfare of the nudgee.
   </p>
   
-  <h4><i>Features of Hypernudging</i></h4>
-  <p>
-    Hypernudging? That's like nudging on steroids!
-  </p>
-
-  <h4><i>Nudge v.s. Hypernudging</i></h4>
-  <p>
-    We'll talk about how these techniques affect your privacy.
-  </p>
   <img src="https://media4.giphy.com/media/PkR8gPgc2mDlrMSgtu/giphy.gif?cid=ecf05e47n0211111666666666666666666666666666666666666666666666666666666r&ep=v1_gifs_search&rid=giphy" alt="Animated GIF" class="y2k-image">
 
-  <h3>Decisional and Informational Privacy</h3>
+  <h4><strong><em>Features of Hypernudging</em></strong></h4>
   <p>
-    Decisional privacy is about your freedom to make choices. Informational privacy is about who gets to know what about you. We'll explore the differences and how they relate to the paper.
+  <strong>Also known as:</strong> “Big Data driven decision-guidance processes” “recommender systems.”
   </p>
+  
+  <p>
+<strong>Definition:</strong> “the <u>algorithmic real-time personalization and reconfiguration</u> of choice architectures based on large aggregates of (personal) data.” (Lanzing 2019) 
+  </p>
+  
+  <p class="y2k-quote">
+ By constantly (re)-configuring and thereby personalizing the user’s informational choice context, typically through <strong>algorithmic analysis of data streams from multiple sources</strong> claiming to offer predictive insights concerning the habits, preferences, and interests of targeted individuals, these nudges channel users choices in directions <strong>preferred by the choice architect</strong> through processes that are subtle, unobtrusive, yet extraordinarily powerful (Yeung 2017: 119). (Lanzing 2019)
+</p>
+
+  <p>
+<strong>Data source:</strong> 
+  </p>
+  
+  <p>
+Live data streams + Already stored data
+  </p>
+  
+  <p>
+Your personal data + All the data of other users 
+  </p>
+
+  <p>
+  *Who is <u><a href=“https://algocracy.wordpress.com/2017/03/06/episode-20-karen-yeung-on-hypernudging-and-big-data/”>Yeung</a></u>?
+  </p>
+  
+  <p>
+  <strong>Examples:</strong> 
+  </p>
+  
+  <p>
+  <a href=“https://www.fitbudd.com/post/15-essential-features-for-a-custom-fitness-app”>Personalized Fitness App Motivations</a> 
+  </p>
+  
+  <p>
+  <a href=“https://www.builderfly.com/how-can-online-retailers-collect-and-use-consumer-data/#:~:text=Through%20this%20data%2C%20they%20monitor,what%20you%20purchased%2C%20what%20prompted”>Dynamic Pricing and Product Placement</a>
+  </p>
+  
+  <p>
+  <a href=“https://www.aeaweb.org/articles?id=10.1257/jep.28.2.51”>Tailored Political Messaging</a>
+  </p>
+  
+  <p>
+  <a href=“https://hubitat.com/blog/560491036715-what-smart-home-devices-can-monitor-energy-consumption”>Smart Home Energy Consumption Optimization</a>
+  </p>
+  
+  <p>
+  <a href=“https://www.bankrate.com/personal-finance/what-to-look-for-in-a-financial-wellness-app/”>Personalized Financial Advice</a>
+  </p>
+  
+  <h4><i>Nudge v.s. Hypernudging</i></h4>
+  
+  | features | nudges | hypernudges |
+|----------|----------|----------|
+| dynamism (the real time, personalized feedback dynamic)| non-specific, aimed at the general public, "one size fits all"| one-to-many (millions!), real time, personalized, via surveillance and data collection|
+| predictive capacity| no instant feedback and thus no immediate adjustment | real time algorithmic behavioral predictions and constant reconfiguration based on machine learning and instant feedback |
+| hiddenness and hidden intentions (the final, overarching, and most important)| tucked away but still detectable, "visible" in the physical world| well-hidden, ubiquitous, unobtrusive, essentially for corporate profit, driven by high-tech|
+
+  | A good Nudge Criteria | a nudge | a hypernudge |
+|----------|----------|----------|
+| transparency | low yet detectable | unobtrusive thus misleading & unjustified |
+| easy to opt out of | could be | highly persuasive, well-hidden, system-default, opting out means quitting the service for good, and the option to opt out might not be clear (enough)|
+| welfare for the nudgee| could benefit the nugee | essentially for corporate benefit, potentially more aligned with corporate interests |
+  
+  <h3>Decisional and Informational Privacy</h3>
+  
+  <p>
+   Informational privacy: “the ability to control who has access to one’s personal information and to what extent (Westin 1967)" (Lanzing 2019)
+  </p>
+  
+  <p>
+  Related concept: reasonable expectations (dynamic and context dependent, constitute social norms)
+  </p>
+  
   <img src="https://media.giphy.com/media/arldiHgOAWyIw/giphy.gif?cid=ecf05e47my57pu9lp9cd6d5ji2dhg5soahm46wfqzey5qgzd&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Animated GIF" class="y2k-image">
+    
+  <p>
+  Decisional privacy as a complementary dimension:
+  </p>
+  
+  <p>
+  Definition: “the right against unwanted access such as unwanted interference in our decisions and actions (Allen 1988: 97; Roessler 2005: 9)” (Lanzing 2019)
+  </p>
+  
+  <p>
+  Descriptions: 
+  </p>
+  
+  <p>
+Narrow view: “nongovernmental decision-making ”, intimate choices
+  </p>
+  
+  <p>
+Broad view: fundamental life decisions, actions, modes of behavior, ways of life. 
+  </p>
+  
+  <p>
+In relation to autonomy: 
+  </p>
+  
+  <p>
+“regulates the access of others in the form of interpretation, objection, commenting, and other forms of intervention in the way you live your life.” (Lanzing 2019)
+  </p>
+  
+  <p>
+“provides the necessary breathing space to carry out one’s chosen life unhindered in different social contexts, which is important for leading a self-determined life and so, for autonomy (Roessler 2005: 80).” (Lanzing 2019)
+  </p>
+  
+  <p>
+“protects you from the interference of others, from the “chilling effect”: conforming your actions to perceived social norms out of fear for (social) sanctions. ” (Lanzing 2019)
+  </p>
+  
+  <p>
+In relation to hypernudging: 
+  </p>
+  
+  <p>
+Decisional privacy theories criticize how hypernudges use personal data to individuals decision-making process. 
+  </p>
+
+<p class="y2k-quote">
+ Decisional privacy concerns should therefore not be reduced to or merely understood in terms of informational privacy concerns. Decisional privacy could be a promising complementary conceptual tool for criticizing hypernudging. (Lanzing 2019)
+</p>
+
+<p>
+Key Takeaway:
+</p>
+
+<p>
+The violation of one’s decisional privacy does not entail an immediate loss of personal autonomy. 
+People should be regarded as autonomous agents who are free to make decisions and receive certain interferences depending on the social norms and contexts, however, commercial choice architectures and hypernudges intrude personal autonomy by bringing I commercially driven interferences in contexts where they are not welcome.
+</p>
+
 </div>
 
 <div class="section">

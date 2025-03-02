@@ -102,25 +102,25 @@ p {
 
   <h3>New Tech and Mass Manipulation</h3>
 
-  <p style="margin-left: 20px;">
+  <p style="margin-left: 20px; padding-right: 20px; text-indent: 20px;">
     Concerns regarding potential mass manipulation arise as new technologies use our data to predict and monetize on our behaviors. There are quite a few examples <strong>(links below)</strong>.
   </p>
 
-  <img src="https://media4.giphy.com/media/E4cnIqDuNov1Pp10yC/giphy.gif?cid=ecf05e47w415f0p5r4v50444q807218z4155b41505r4v50444q807218z&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Animated GIF" class="y2k-image">
+  <img src="https://media4.giphy.com/media/E4cnIqDuNov1Pp10yC/giphy.gif?cid=ecf05e47w415f0p5r4v50444q807218z4155b41505r4v50444q807218z&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Animated GIF" class="y2k-image" style="margin-top: 30px; margin-bottom: 30px;">
 
-  <p>
+  <p style="margin-left: 20px;">
     <a href="https://www.geekwire.com/2016/uber-redesigns-app-predict-riders-headed-give-car/" target="_blank">"Uber redesigns app to predict where riders are headed and give them more to do in the car"</a>
   </P>
 
-  <p>
+  <p style="margin-left: 20px;">
     <a href="https://www.theguardian.com/technology/2014/oct/02/facebook-sorry-secret-psychological-experiment-users" target="_blank">The Facebook Experiment</a>
   </p>
 
-  <p>
+  <p style="margin-left: 20px;">
     <a href="https://noyb.eu/en/your-fitbit-useless-unless-you-consent-unlawful-data-sharing" target="_blank">FitBit Data Concerns</a>
   </p>
 
-  <p>
+  <p style="margin-left: 20px;">
     <a href="https://www.youtube.com/watch?v=iX8GxLP1FHo" target="_blank">Facebook and Cambridge Analytica (Trailer)</a>
   </p>
 
@@ -128,12 +128,12 @@ p {
     <strong>Key Concepts:</strong>
   </p>
 
-  <p>
+  <p style="margin-left: 20px; padding-right: 20px; text-indent: 20px;">
     <u>Hypernudging</u>: “drawing in Big Data to nudge individuals with personalized feedback to change their behavior” (Lanzing 2019, 550)
   </p>
 
-  <p>
-    <u>Self-tracking</u>: “Fuelled by real-time data, algorithms create personalized online choice architectures that aim to nudge individual users to effectively change their behavior. ” (Lanzing 2019, 550)
+  <p style="margin-left: 20px; padding-right: 20px; text-indent: 20px;">
+    <u>Self-tracking</u>: “Fuelled by real-time data, algorithms create personalized online <u>choice architectures</u>* that aim to nudge individual users to effectively change their behavior. ” (Lanzing 2019, 550)
   </p>
   
  <p style="margin-right: 20px; text-align: right;">
@@ -141,47 +141,44 @@ p {
 </p>
 
   <h3>Research Paper Outline</h3>
-  <p>
-    <strong>Main goal:</strong> An ethical critique of self-tracking technologies and their data-collection-based algorithmic hypernudging.
+  
+  <p style="margin-left: 20px; padding-right: 20px; text-indent: 20px;">
+    <strong>Main Goal:</strong> An ethical critique of self-tracking technologies and their data-collection-based algorithmic hypernudging.
   </p>
 
-  <p>
+  <p style="margin-left: 20px; padding-right: 20px; text-indent: 20px;">
     <strong>Theoretical Framework:</strong> decisional privacy and informational privacy as complementary dimensions
   </p>
 
-  <p>
+  <p style="margin-left: 20px; padding-right: 20px; text-indent: 20px;">
     <strong>Claim:</strong> self-tracking technologies and their hyper-nudging threatens individuals’ autonomy due to the fact that they violate both decisional and informational privacy.
   </p>
 
-  <p>
+  <p style="margin-top: 20px;">
     <strong>Four Steps:</strong>
   </p>
 
   <p>
-    Nudging v.s. Hypernudging
-    <a href="https://link.springer.com/article/10.1007/s13347-018-0316-4" target="_blank">
-      (1.1 - 1.4)
-    </a>
+  Nudging v.s. Hypernudging
+  <a href="https://link.springer.com/article/10.1007/s13347-018-0316-4">(1.1 - 1.4)
+  </a>
   </p>
 
   <p>
     Re-evaluation of decisional privacy
-    <a href="https://link.springer.com/article/10.1007/s13347-018-0316-4" target="_blank">
-      (1.5 -1.6)
+    <a href="https://link.springer.com/article/10.1007/s13347-018-0316-4">(1.5 -1.6)
     </a>
   </p>
 
   <p>
     Combination of informational privacy and decisional privacy
-    <a href="https://link.springer.com/article/10.1007/s13347-018-0316-4" target="_blank">
-      (1.7 - 1.9)
+    <a href="https://link.springer.com/article/10.1007/s13347-018-0316-4">(1.7 - 1.9)
     </a>
   </p>
 
   <p>
     Three potential objections
-    <a href="https://link.springer.com/article/10.1007/s13347-018-0316-4" target="_blank">
-      (1.10)
+    <a href="https://link.springer.com/article/10.1007/s13347-018-0316-4">(1.10)
     </a>
   </p>
 
@@ -191,20 +188,19 @@ p {
   <h2>Main Body</h2>
 
   <h3>Self-Tracking</h3>
-  <p>
-    <strong>Also known as:</strong>  “life-logging, quantified self, personal analytics, and personal informatics” (Lanzing 2019) 
+  <p style="margin-left: 20px; padding-right: 20px; text-indent: 20px;">
+    <strong>Also Known As:</strong>  “life-logging, quantified self, personal analytics, and personal informatics” (Lanzing 2019) 
   </p>
 
-  <p>
+  <p style="margin-left: 20px; padding-right: 20px; text-indent: 20px;">
   <strong>Definition:</strong> “the practice of quantifying behavior through extensive self-surveillance for the purpose of behavioral change”  (Lanzing 2019)
   </p>
   
-  <p>
+  <p style="margin-left: 20px; padding-right: 20px; text-indent: 20px;">
  <strong>How-to</strong>: wearable digital devices and/or smartphone apps + social media (external online platforms)
-
   </p>
  
-  <p>
+  <p style="margin-top: 20px;">
   <strong>Examples:</strong>
   </p>
   
@@ -216,36 +212,36 @@ p {
   Other Fitness apps: <a href="https://en.wikipedia.org/wiki/Fitbit">FitBit</a>, <a href="https://runkeeper.com/cms/start-running/">Runkeeper</a>
 </p>
   
- <div style="display: flex; align-items: center;">
+ <div style="margin-top: 30px; display: flex; align-items: center;">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWNtZHRtNzdtMTdzcWt6NXo4NGEyaGJkNjlhNWpicmtoMHI2NDB1aSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/5JOAtCLGugj3q/giphy.gif" alt="Animated GIF" style="max-height: 200px; margin-right: 10px;">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWc0amhuY3I0bXRoOTFpeW9peGtzdzlpMTJ0cDFkZWhnZDIwYmEwMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Q6ikViAiojf0bmU9PH/giphy.gif" alt="Animated GIF" style="max-height: 200px;">
 </div>
 
-   <p class="y2k-quote">
+   <p class="y2k-quote" style="margin-top: 30px; text-indent: 20px;">
   “Big Data has enabled “personalized” choice architectures: choice architectures that are designed according to user data feedback. Personalized feedback in self-tracking is based on the analysis of large aggregates of (personal) information or “Big Data,” also referred to as personal analytics. The analysis aims to identify patterns and interesting correlations in the data. Based on the analysis, many devices, and apps make suggestions to their users about how they can change or improve their behavior, what choices to make.” (Lanzing 2019)
 </p>
   
-  <p>
-   <strong>Main attraction: </strong> personalized feedback and thus self-improvement (and empowerment) 
+  <p style="margin-top: 20px;text-indent: 20px;">
+   <strong>Main Attraction: </strong> personalized feedback and thus self-improvement (and empowerment) 
   </p>
   
-  <p>
-  <strong>Main concern:</strong> Big Data-driven personalized choice architectures
-  </p>
+ <p style="text-indent: 20px;">
+  <strong>Main Concern:</strong> Big Data-driven personalized choice architectures
+</p>
   
-   <p>
-   These are some interesting articles I found regarding self-tracking, feel free to take a look around!
-  </p>
+  <p style="margin-top: 20px;">
+  These are some interesting articles I found regarding self-tracking, feel free to take a look around!
+</p>
   
-  <p>
+  <p style="margin-left: 20px;">
   <a href="https://www.fabrique.com/blog/dark-side-self-tracking/">The Dark Side of Self-Tracking</a>
   </p>
   
-  <p>
+  <p style="margin-left: 20px;">
   <a href="https://www.theguardian.com/lifeandstyle/2025/feb/22/the-bot-asked-me-four-times-a-day-how-i-was-feeling-is-tracking-everything-actually-good-for-us">‘The bot asked me four times a day how I was feeling’: is tracking everything actually good for us?</a>
   </p>
   
-  <p>
+  <p style="margin-left: 20px;">
   <a href="https://www.freedomlab.com/posts/everybody-is-a-self-tracker">Everybody is a self-tracker</a>
   </p>
   
@@ -257,118 +253,119 @@ p {
   <strong>1</strong> critique:
   </p>
   
-  <p>
+  <p style="margin-left: 20px; padding-right: 20px; text-indent: 20px;">
   Potentially <u>manipulative</u>
   </p>
   
-  <p class="y2k-quote">
- “Manipulation, as I understand it here, refers to the intentional but “hidden” steering of people’s choices by promoting and shaping decision-making processes that persons generally would not use for making rational decisions (Wilkinson 2013: 347; Goodin 1980: 17).” (Lanzing 2019)
-</p>
+  <p class="y2k-quote" style="margin-top: 30px; text-indent: 20px;">
+“Manipulation, as I understand it here, refers to the intentional but “hidden” steering of people’s choices by promoting and shaping decision-making processes that persons generally would not use for making rational decisions (Wilkinson 2013: 347; Goodin 1980: 17).” (Lanzing 2019)
+  </p>
 
-  <p>
+  <p style="margin-top: 30px;">
   <strong>2</strong> <heavy>ideal</heavy> features:
   </p>
 
-  <p style="margin-left: 20px;">
+  <p style="margin-left: 20px; padding-right: 20px; text-indent: 20px;">
   i.Do not compromise individual freedom and autonomy. 
   </p>
   
-  <p style="margin-left: 20px;">
+  <p style="margin-left: 20px; padding-right: 20px; text-indent: 20px;">
   ii.Do not reduce/eliminate options, simply re-arranging the individual’s choice architecture so it favors specific options.
   </p>
   
   <p>
-  How do nudges work?
+  How Do Nudges Work?
   </p>
   
-  <p style="margin-left: 20px;">
+  <p style="margin-left: 20px; padding-right: 20px; text-indent: 20px;">
   Nudges influence and steer decision-making via <u>psychological mechanisms</u>.
   </p>
   
   <p>
-  What are bad nudges?
+  What Are Bad Nudges?
   </p>
   
-  <p style="margin-left: 20px;">
+  <p style="margin-left: 20px; padding-right: 20px; text-indent: 20px;">
   i.Bad nudges rip the individual off their <heavy>control</heavy> over their behaviors. 
   </p>
   
-  <p style="margin-left: 20px;">
+  <p style="margin-left: 20px; padding-right: 20px; text-indent: 20px;">
   ii.Bad nudges are <heavy>hardly noticeable</heavy> and their intentions are opaque, which could be potentially manipulative.
   </p>
   
   <p>
-  What are good nudges? 
+  What Are Good Nudges? 
   </p>
   
-  <p style="margin-left: 20px;">
+  <p style="margin-left: 20px; padding-right: 20px; text-indent: 20px;">
   i.Good nudges are transparent and straightforward. 
   </p>
   
-  <p style="margin-left: 20px;">
+  <p style="margin-left: 20px; padding-right: 20px; text-indent: 20px;">
   ii.Good nudges are easy to opt out of. 
   </p>
   
-  <p style="margin-left: 20px;">
+  <p style="margin-left: 20px; padding-right: 20px; text-indent: 20px;">
   iii.Good nudges intend to improve the welfare of the nudgee.
   </p>
   
-  <img src="https://media4.giphy.com/media/PkR8gPgc2mDlrMSgtu/giphy.gif?cid=ecf05e47n0211111666666666666666666666666666666666666666666666666666666r&ep=v1_gifs_search&rid=giphy" alt="Animated GIF" class="y2k-image">
+ <img src="https://media4.giphy.com/media/PkR8gPgc2mDlrMSgtu/giphy.gif?cid=ecf05e47n02111116666666666666666666666666666666666666666666666666666r&ep=v1_gifs_search&rid=giphy" alt="Animated GIF" class="y2k-image" style="margin-top: 30px; margin-bottom: 30px;">
 
   <h4><strong><em>Features of Hypernudging</em></strong></h4>
-  <p>
+  
+  <p style="margin-left: 20px; padding-right: 20px; text-indent: 20px;">
   <strong>Also known as:</strong> “Big Data driven decision-guidance processes” “recommender systems.”
   </p>
   
-  <p>
+  <p style="margin-left: 20px; padding-right: 20px; text-indent: 20px;">
 <strong>Definition:</strong> “the <u>algorithmic real-time personalization and reconfiguration</u> of choice architectures based on large aggregates of (personal) data.” (Lanzing 2019) 
   </p>
   
-  <p class="y2k-quote">
- By constantly (re)-configuring and thereby personalizing the user’s informational choice context, typically through <strong>algorithmic analysis of data streams from multiple sources</strong> claiming to offer predictive insights concerning the habits, preferences, and interests of targeted individuals, these nudges channel users choices in directions <strong>preferred by the choice architect</strong> through processes that are subtle, unobtrusive, yet extraordinarily powerful (Yeung 2017: 119). (Lanzing 2019)
+  <p class="y2k-quote" style="margin-top: 30px; text-indent: 20px;">
+By constantly (re)-configuring and thereby personalizing the user’s informational choice context, typically through <strong>algorithmic analysis of data streams from multiple sources</strong> claiming to offer predictive insights concerning the habits, preferences, and interests of targeted individuals, these nudges channel users choices in directions <strong>preferred by the choice architect</strong> through processes that are subtle, unobtrusive, yet extraordinarily powerful (Yeung 2017: 119). (Lanzing 2019)
+  </p>
+
+<p style="margin-right: 10px; text-align: right;">
+  *Who is <u><a href="https://algocracy.wordpress.com/2017/03/06/episode-20-karen-yeung-on-hypernudging-and-big-data/">Yeung</a></u>?
 </p>
 
   <p>
 <strong>Data source:</strong> 
   </p>
   
-  <p style="margin-left: 20px;">
+  <p style="margin-left: 20px; padding-right: 20px;">
 Live data streams + Already stored data
   </p>
   
-  <p style="margin-left: 20px;">
+  <p style="margin-left: 20px; padding-right: 20px;">
 Your personal data + All the data of other users 
   </p>
-
-  <p style="margin-right: 10px; text-align: right;">
-  *Who is <u><a href="https://algocracy.wordpress.com/2017/03/06/episode-20-karen-yeung-on-hypernudging-and-big-data/">Yeung</a></u>?
-</p>
 
   <p>
   <strong>Examples:</strong> 
   </p>
   
- <p>
+ <p style="margin-left: 20px;">
   <a href="https://www.fitbudd.com/post/15-essential-features-for-a-custom-fitness-app">Personalized Fitness App Motivations</a>
 </p>
 
-<p>
+  <p style="margin-left: 20px;">
   <a href="https://www.builderfly.com/how-can-online-retailers-collect-and-use-consumer-data/#:~:text=Through%20this%20data%2C%20they%20monitor,what%20you%20purchased%2C%20what%20prompted">Dynamic Pricing and Product Placement</a>
 </p>
 
-<p>
+  <p style="margin-left: 20px;">
   <a href="https://www.aeaweb.org/articles?id=10.1257/jep.28.2.51">Tailored Political Messaging</a>
 </p>
 
-<p>
+ <p style="margin-left: 20px;">
   <a href="https://hubitat.com/blog/560491036715-what-smart-home-devices-can-monitor-energy-consumption">Smart Home Energy Consumption Optimization</a>
 </p>
 
-<p>
+<p style="margin-left: 20px;">
   <a href="https://www.bankrate.com/personal-finance/what-to-look-for-in-a-financial-wellness-app/">Personalized Financial Advice</a>
 </p>
   
-  <h4><i><strong>Nudge v.s. Hypernudging</strong></i></h4>
+  <h4 style="margin-top: 20px;"><i><strong>Nudge v.s. Hypernudging</strong></i></h4>
   
  <style>
   .big-table-text {
@@ -453,18 +450,18 @@ Your personal data + All the data of other users
   
   <h4><strong><em>Informational Privacy</em></strong></h4>
   
-  <p>
+  <p style="margin-left: 20px; padding-right: 20px; text-indent: 20px;">
    <strong>Definition:</strong> “the ability to control who has access to one’s personal information and to what extent (Westin 1967)" (Lanzing 2019)
   </p>
   
-  <p>
-  <strong>Related concept:</strong> reasonable expectations (dynamic and context dependent, constitute social norms)
+  <p style="margin-left: 20px; padding-right: 20px; text-indent: 20px;">
+  <strong>Related Concept:</strong> reasonable expectations (dynamic and context dependent, constitute social norms)
   </p>
   
  <style>
   .y2k-image-container {
-    margin-top: 50px; /* Adjust top margin as needed */
-    margin-bottom: 50px; /* Adjust bottom margin as needed */
+    margin-top: 30px; /* Adjust top margin as needed */
+    margin-bottom: 30px; /* Adjust bottom margin as needed */
     text-align: center; /* Centers the image */
   }
 </style>
@@ -474,60 +471,60 @@ Your personal data + All the data of other users
 </div>
     
   <h4><strong><em>
-  Decisional privacy as a complementary dimension:
+  Decisional Privacy As A Complementary Dimension:
   </em></strong></h4>
   
-  <p>
+  <p style="margin-left: 20px; padding-right: 20px;">
   <strong>Definition:</strong> “...the right against unwanted access such as unwanted interference in our decisions and actions (Allen 1988: 97; Roessler 2005: 9)” (Lanzing 2019)
   </p>
   
-  <p>
+  <p style="margin-left: 20px;">
   <strong>Descriptions:</strong> 
   </p>
   
-  <p style="padding-left: 20px;">
+  <p style="margin-left: 20px; padding-right: 20px; text-indent: 20px;">
 Narrow view: “nongovernmental decision-making ”, intimate choices.
   </p>
   
-  <p style="padding-left: 20px;">
+  <p style="margin-left: 20px; padding-right: 20px; text-indent: 20px;">
 Broad view: fundamental life decisions, actions, modes of behavior, ways of life. 
   </p>
   
   <p>
-<strong>In relation to autonomy:</strong> 
+<strong>In Relation to Autonomy:</strong> 
   </p>
   
-  <p style="padding-left: 20px;">
+  <p style="margin-left: 20px; padding-right: 20px; text-indent: 20px;">
 “...regulates the access of others in the form of interpretation, objection, commenting, and other forms of intervention in the way you live your life.” (Lanzing 2019)
   </p>
   
-  <p style="padding-left: 20px;">
+  <p style="margin-left: 20px; padding-right: 20px; text-indent: 20px;">
 “...provides the necessary breathing space to carry out one’s chosen life unhindered in different social contexts, which is important for leading a self-determined life and so, for autonomy (Roessler 2005: 80).” (Lanzing 2019)
   </p>
   
-  <p style="padding-left: 20px;">
+  <p style="margin-left: 20px; padding-right: 20px; text-indent: 20px;">
 “...protects you from the interference of others, from the “chilling effect”: conforming your actions to perceived social norms out of fear for (social) sanctions. ” (Lanzing 2019)
   </p>
   
   <p>
-<strong>In relation to hypernudging:</strong> 
+<strong>In Relation to Hypernudging:</strong> 
   </p>
   
-  <p>
+  <p style="margin-left: 20px; padding-right: 20px; text-indent: 20px;">
 Decisional privacy theories criticize how hypernudges use personal data to individuals decision-making process. 
   </p>
 
-<p class="y2k-quote">
+<p class="y2k-quote" style="margin-top: 30px; text-indent: 20px;">
  Decisional privacy concerns should therefore not be reduced to or merely understood in terms of informational privacy concerns. Decisional privacy could be a promising complementary conceptual tool for criticizing hypernudging. (Lanzing 2019)
 </p>
 
-<p>
+<p style="margin-top: 30px;">
 <strong>Key Takeaway:</strong>
 </p>
 
-<p style="padding-left: 20px;">
+<p style="margin-left: 20px; padding-right: 20px; text-indent: 20px;">
 The violation of one’s decisional privacy does not entail an immediate loss of personal autonomy. 
-People should be regarded as autonomous agents who are free to make decisions and receive certain interferences depending on the social norms and contexts, however, commercial choice architectures and hypernudges intrude personal autonomy by bringing I commercially driven interference in contexts where they are not welcome.
+People should be regarded as autonomous agents who are free to make decisions and receive certain interferences depending on the social norms and contexts, however, commercial choice architectures and hypernudges intrude personal autonomy by bringing in commercially driven interference in contexts where they are not welcome.
 </p>
 
 <p>
@@ -536,83 +533,89 @@ Interconnection:
 </strong>
 </p>
 
-<p style="padding-left: 20px;">
+<p style="margin-left: 20px; padding-right: 20px; text-indent: 20px;">
 Informational and decisional privacy are both closely related to the protection of individual autonomy as two mutually reinforcing dimensions.
 </p>
 
-<p style="padding-left: 20px;">
+<p style="margin-left: 20px; padding-right: 20px; text-indent: 20px;">
 Violations of informational privacy naturally translate to the violations of one’s decisional privacy.
 </p>
 
-<figure style="text-align: center;">
-  <img src="/Users/olenonniboi/Desktop/Ethics of Privacy/Week_4/presentation lanzing/13347_2018_316_Fig1_HTML.jpg" alt="Example: the hypernudging feedback loop" width="250" style="display: block; margin: 50px auto;">
-  <figcaption>Figure 1: The Hypernudging Feedback Loop</figcaption>
+<figure style="text-align: center; margin-top: 20px;">
+  <img src="/Users/olenonniboi/Desktop/Ethics of Privacy/Week_4/presentation lanzing/13347_2018_316_Fig1_HTML.jpg" alt="Example: the hypernudging feedback loop" width="250" style="display: block; margin-bottom: 0px; margin-left: auto; margin-right: auto;">
+  <figcaption style="margin-top: 5px;">Figure 1: The Hypernudging Feedback Loop</figcaption>
 </figure>
 
-<h4><strong>Hypernudge and informational privacy violations</strong></h4>
+<h4 style= margin-top: 20px;"><strong>Hypernudge and Informational Privacy Violations</strong></h4>
 
-<p style="margin-left: 20px;">
+<p style="margin-left: 20px; padding-right: 20px; text-indent: 20px;">
 i.People have no control over their data and data regarding their private decisions, nor the knowledge of how these data are used by commercial enterprises. 
 </p>
 
-<p style="margin-left: 20px;">
+<p style="margin-left: 20px; padding-right: 20px; text-indent: 20px;">
 ii.Big data-driven corporations and commercial third parties are blurring the boundaries between contexts and norms of sharing and accessing personal information. 
 </p>
 
-<p style="margin-left: 20px;">
+<p style="margin-left: 20px; padding-right: 20px; text-indent: 20px;">
 iii.Past behavioral data and data of an entire-population are used to hypernudge a specific individual, resulting in filter bubbles and collaborate filtering. 
 </p>
 
-<h4><strong>Hypernudge and decisional privacy violations</strong></h4>
+<h4><strong>Hypernudge and Decisional Privacy Violations</strong></h4>
 
-<p style="margin-left: 20px;">
+<p style="margin-left: 20px; padding-right: 20px; text-indent: 20px;">
 i.Hypernudges interfere people’s decision-making with hidden intentions and effects, people do not know why and how they are manipulated into making a choice that favors a third party.
 </p>
 
-<p style="margin-left: 20px;">
+<p style="margin-left: 20px; padding-right: 20px; text-indent: 20px;">
 ii.Not all options are visible and available to the nudgee, they are preselected by algorithms in favor of those in control of the technology.
 </p>
 
-<p style="margin-left: 20px;">
+<p style="margin-left: 20px; padding-right: 20px; text-indent: 20px;">
 iii.No accountability can be held. A nudgee does not know by whom their decisions are steered. 
 </p>
 
-<p style="margin-left: 20px;">
+<p style="margin-left: 20px;padding-right: 20px;">
 iv.Hypernudges affect many people in many domains at the same time.  
 </p>
 
 <h4><strong>Three Objections</strong></h4>
 
-<p>
-O1: Some people are willingly sharing there data in order to gain more independence via self-tracking technologies.
+<p style="margin-left: 20px;">
+  O1: Some people are willingly sharing their data in order to gain more independence via self-tracking technologies.
+</p>
+
+<p style="margin-left: 20px; padding-right: 20px;">
+  Response: A technology that violates an individual's informational and decisional privacy, and thus their autonomy, can not scaffold one's autonomy.
 </p>
 
 <p style="margin-left: 20px;">
-Response: a technology that violates an individual’s informational and decisional privacy, and thus their autonomy, can not scaffold one’s autonomy.
+  O2: The fact that there are people using such technologies means that they consent to such operations and their effects.
 </p>
 
-<p>
-O2: The fact that there are people using such technologies means that they consent to such operations and their effects. 
-</p>
-
-<p style="margin-left: 20px;">
-Response: people consent to self-tracking technologies but their consents are no longer meaningful and informed. 
-</p>
-
-<p>
-O3:Simply not using self-tracking technologies seems to be the most effective strategy.
+<p style="margin-left: 20px; padding-right: 20px;">
+  Response: people consent to self-tracking technologies but their consents are no longer meaningful and informed.
 </p>
 
 <p style="margin-left: 20px;">
-Response: not everyone can afford to fully opt out, let alone self-tracking technologies are becoming institutionalized. This simply avoids the issue rather than solving it. 
+  O3: Simply not using self-tracking technologies seems to be the most effective strategy.
+</p>
+
+<p style="margin-left: 20px; padding-right: 20px;">
+  Response: Not everyone can afford to fully opt out, let alone self-tracking technologies are becoming institutionalized. This simply avoids the issue rather than solving it.
 </p>
 
 </div>
 
 <div class="section">
-  <h2>Conclusion and Further Yappin Session</h2>
+  <h2>Conclusion and Yappin Session</h2>
   <p>
    post the discussion question right here
   </p>
-  <img src="https://media1.giphy.com/media/3o6fJd6iEkL8Ys7tsY/giphy.gif?cid=ecf05e47p598p918r07j559555077797888878888888888888r&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Animated GIF" class="y2k-image">
+
+<div style="margin-top: 30px; display: flex; align-items: center; justify-content: center;">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjM1aWc2cWNlYWpqOHlobnZ5azVjdXBpenducWk2cmV6N2U4dmpsayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/GeimqsH0TLDt4tScGw/giphy.gif" alt="Animated GIF" style="max-height: 200px; margin-right: 10px;">
+  <img src="https://media1.giphy.com/media/3o6fJd6iEkL8Ys7tsY/giphy.gif?cid=ecf05e47p598p918r07j559555077797888878888888888888r&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Animated GIF" style="max-height: 200px;">
+</div>
+
+</div>
 </div>

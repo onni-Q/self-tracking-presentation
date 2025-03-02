@@ -137,7 +137,7 @@ p {
   </p>
   
   <p>
-  *what is a <heavy>"<a href=“https://thedecisionlab.com/reference-guide/psychology/choice-architecture”>choice architecture</a>"</heavy> anyway? 
+  *what is a <strong>"<a href=“https://thedecisionlab.com/reference-guide/psychology/choice-architecture”>choice architecture</a>"</strong>anyway? 
   </p>
 
   <h3>Research Paper Outline</h3>

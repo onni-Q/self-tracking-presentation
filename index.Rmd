@@ -136,9 +136,9 @@ p {
     <u>Self-tracking</u>: “Fuelled by real-time data, algorithms create personalized online choice architectures that aim to nudge individual users to effectively change their behavior. ” (Lanzing 2019)
   </p>
   
-  <p>
-  *what is a <a href=“https://thedecisionlab.com/reference-guide/psychology/choice-architecture”> choice architecture</a> anyway 
-  </p>
+ <p>
+  *what is a <a href="https://thedecisionlab.com/reference-guide/psychology/choice-architecture">choice architecture</a> anyway
+</p>
 
   <h3>Research Paper Outline</h3>
   <p>
@@ -208,13 +208,13 @@ p {
   <strong>Examples:</strong>
   </p>
   
-  <p>
-  <a href=“https://www.strava.com/features”>Strava</a>: self-tracking & social network for athletes
-  </p>
+ <p>
+  <a href="https://www.strava.com/features">Strava</a>: self-tracking & social network for athletes
+</p>
 
  <p>
- Other Fitness apps: <a href=“https://en.wikipedia.org/wiki/Fitbit”>FitBit</a>, <a href=“https://runkeeper.com/cms/start-running/”>Runkeeper</a>
-  </p>
+  Other Fitness apps: <a href="https://en.wikipedia.org/wiki/Fitbit">FitBit</a>, <a href="https://runkeeper.com/cms/start-running/">Runkeeper</a>
+</p>
   
  <div style="display: flex; align-items: center;">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWNtZHRtNzdtMTdzcWt6NXo4NGEyaGJkNjlhNWpicmtoMHI2NDB1aSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/5JOAtCLGugj3q/giphy.gif" alt="Animated GIF" style="max-height: 200px; margin-right: 10px;">
@@ -239,7 +239,7 @@ p {
   
   <p>
   <a href="https://www.fabrique.com/blog/dark-side-self-tracking/">The Dark Side of Self-Tracking</a>
-</p>
+  </p>
   
   <p>
   <a href="https://www.theguardian.com/lifeandstyle/2025/feb/22/the-bot-asked-me-four-times-a-day-how-i-was-feeling-is-tracking-everything-actually-good-for-us">‘The bot asked me four times a day how I was feeling’: is tracking everything actually good for us?</a>
@@ -341,57 +341,121 @@ Your personal data + All the data of other users
   </p>
 
   <p>
-  *Who is <u><a href=“https://algocracy.wordpress.com/2017/03/06/episode-20-karen-yeung-on-hypernudging-and-big-data/”>Yeung</a></u>?
-  </p>
-  
+  *Who is <u><a href="https://algocracy.wordpress.com/2017/03/06/episode-20-karen-yeung-on-hypernudging-and-big-data/">Yeung</a></u>?
+</p>
+
   <p>
   <strong>Examples:</strong> 
   </p>
   
-  <p>
-  <a href=“https://www.fitbudd.com/post/15-essential-features-for-a-custom-fitness-app”>Personalized Fitness App Motivations</a> 
-  </p>
-  
-  <p>
-  <a href=“https://www.builderfly.com/how-can-online-retailers-collect-and-use-consumer-data/#:~:text=Through%20this%20data%2C%20they%20monitor,what%20you%20purchased%2C%20what%20prompted”>Dynamic Pricing and Product Placement</a>
-  </p>
-  
-  <p>
-  <a href=“https://www.aeaweb.org/articles?id=10.1257/jep.28.2.51”>Tailored Political Messaging</a>
-  </p>
-  
-  <p>
-  <a href=“https://hubitat.com/blog/560491036715-what-smart-home-devices-can-monitor-energy-consumption”>Smart Home Energy Consumption Optimization</a>
-  </p>
-  
-  <p>
-  <a href=“https://www.bankrate.com/personal-finance/what-to-look-for-in-a-financial-wellness-app/”>Personalized Financial Advice</a>
-  </p>
+ <p>
+  <a href="https://www.fitbudd.com/post/15-essential-features-for-a-custom-fitness-app">Personalized Fitness App Motivations</a>
+</p>
+
+<p>
+  <a href="https://www.builderfly.com/how-can-online-retailers-collect-and-use-consumer-data/#:~:text=Through%20this%20data%2C%20they%20monitor,what%20you%20purchased%2C%20what%20prompted">Dynamic Pricing and Product Placement</a>
+</p>
+
+<p>
+  <a href="https://www.aeaweb.org/articles?id=10.1257/jep.28.2.51">Tailored Political Messaging</a>
+</p>
+
+<p>
+  <a href="https://hubitat.com/blog/560491036715-what-smart-home-devices-can-monitor-energy-consumption">Smart Home Energy Consumption Optimization</a>
+</p>
+
+<p>
+  <a href="https://www.bankrate.com/personal-finance/what-to-look-for-in-a-financial-wellness-app/">Personalized Financial Advice</a>
+</p>
   
   <h4><i>Nudge v.s. Hypernudging</i></h4>
   
-  | features | nudges | hypernudges |
-|----------|----------|----------|
-| dynamism (the real time, personalized feedback dynamic)| non-specific, aimed at the general public, "one size fits all"| one-to-many (millions!), real time, personalized, via surveillance and data collection|
-| predictive capacity| no instant feedback and thus no immediate adjustment | real time algorithmic behavioral predictions and constant reconfiguration based on machine learning and instant feedback |
-| hiddenness and hidden intentions (the final, overarching, and most important)| tucked away but still detectable, "visible" in the physical world| well-hidden, ubiquitous, unobtrusive, essentially for corporate profit, driven by high-tech|
+ <style>
+  .big-table-text {
+    font-size: 1.2em;
+  }
+  .table-container {
+    margin-bottom: 50px;
+  }
+  .big-table-text table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  .big-table-text th, .big-table-text td {
+    border: 1px solid black;
+    padding: 8px;
+    text-align: left;
+  }
+</style>
 
-  | A good Nudge Criteria | a nudge | a hypernudge |
-|----------|----------|----------|
-| transparency | low yet detectable | unobtrusive thus misleading & unjustified |
-| easy to opt out of | could be | highly persuasive, well-hidden, system-default, opting out means quitting the service for good, and the option to opt out might not be clear (enough)|
-| welfare for the nudgee| could benefit the nugee | essentially for corporate benefit, potentially more aligned with corporate interests |
+<div class="table-container big-table-text">
+  <table>
+    <thead>
+      <tr>
+        <th>features</th>
+        <th>nudges</th>
+        <th>hypernudges</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>dynamism (the real time, personalized feedback dynamic)</td>
+        <td>non-specific, aimed at the general public, "one size fits all"</td>
+        <td>one-to-many (millions!), real time, personalized, via surveillance and data collection</td>
+      </tr>
+      <tr>
+        <td>predictive capacity</td>
+        <td>no instant feedback and thus no immediate adjustment</td>
+        <td>real time algorithmic behavioral predictions and constant reconfiguration based on machine learning and instant feedback</td>
+      </tr>
+      <tr>
+        <td>hiddenness and hidden intentions (the final, overarching, and most important)</td>
+        <td>tucked away but still detectable, "visible" in the physical world</td>
+        <td>well-hidden, ubiquitous, unobtrusive, essentially for corporate profit, driven by high-tech</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<div class="table-container big-table-text">
+  <table>
+    <thead>
+      <tr>
+        <th>A good Nudge Criteria</th>
+        <th>a nudge</th>
+        <th>a hypernudge</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>transparency</td>
+        <td>low yet detectable</td>
+        <td>unobtrusive thus misleading & unjustified</td>
+      </tr>
+      <tr>
+        <td>easy to opt out of</td>
+        <td>could be</td>
+        <td>highly persuasive, well-hidden, system-default, opting out means quitting the service for good, and the option to opt out might not be clear (enough)</td>
+      </tr>
+      <tr>
+        <td>welfare for the nudgee</td>
+        <td>could benefit the nudgee</td>
+        <td>essentially for corporate benefit, potentially more aligned with corporate interests</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
   
   <h3>Decisional and Informational Privacy</h3>
   
   <h4><strong><em>Informational Privacy</em></strong></h4>
   
   <p>
-   Definition: “the ability to control who has access to one’s personal information and to what extent (Westin 1967)" (Lanzing 2019)
+   <strong>Definition:</strong> “the ability to control who has access to one’s personal information and to what extent (Westin 1967)" (Lanzing 2019)
   </p>
   
   <p>
-  Related concept: reasonable expectations (dynamic and context dependent, constitute social norms)
+  <strong>Related concept:</strong> reasonable expectations (dynamic and context dependent, constitute social norms)
   </p>
   
   <img src="https://media.giphy.com/media/arldiHgOAWyIw/giphy.gif?cid=ecf05e47my57pu9lp9cd6d5ji2dhg5soahm46wfqzey5qgzd&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Animated GIF" class="y2k-image">
@@ -401,15 +465,15 @@ Your personal data + All the data of other users
   </em></strong></h4>
   
   <p>
-  Definition: “the right against unwanted access such as unwanted interference in our decisions and actions (Allen 1988: 97; Roessler 2005: 9)” (Lanzing 2019)
+  <strong>Definition:</strong> “the right against unwanted access such as unwanted interference in our decisions and actions (Allen 1988: 97; Roessler 2005: 9)” (Lanzing 2019)
   </p>
   
   <p>
-  Descriptions: 
+  <strong>Descriptions:</strong> 
   </p>
   
   <p>
-Narrow view: “nongovernmental decision-making ”, intimate choices
+Narrow view: “nongovernmental decision-making ”, intimate choices.
   </p>
   
   <p>
@@ -421,15 +485,15 @@ Broad view: fundamental life decisions, actions, modes of behavior, ways of life
   </p>
   
   <p>
-“regulates the access of others in the form of interpretation, objection, commenting, and other forms of intervention in the way you live your life.” (Lanzing 2019)
+“...regulates the access of others in the form of interpretation, objection, commenting, and other forms of intervention in the way you live your life.” (Lanzing 2019)
   </p>
   
   <p>
-“provides the necessary breathing space to carry out one’s chosen life unhindered in different social contexts, which is important for leading a self-determined life and so, for autonomy (Roessler 2005: 80).” (Lanzing 2019)
+“...provides the necessary breathing space to carry out one’s chosen life unhindered in different social contexts, which is important for leading a self-determined life and so, for autonomy (Roessler 2005: 80).” (Lanzing 2019)
   </p>
   
   <p>
-“protects you from the interference of others, from the “chilling effect”: conforming your actions to perceived social norms out of fear for (social) sanctions. ” (Lanzing 2019)
+“...protects you from the interference of others, from the “chilling effect”: conforming your actions to perceived social norms out of fear for (social) sanctions. ” (Lanzing 2019)
   </p>
   
   <p>

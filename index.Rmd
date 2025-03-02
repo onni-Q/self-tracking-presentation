@@ -102,7 +102,7 @@ p {
 
   <h3>New Tech and Mass Manipulation</h3>
 
-  <p>
+  <p style="margin-left: 20px;">
     Concerns regarding potential mass manipulation arise as new technologies use our data to predict and monetize on our behaviors. There are quite a few examples <strong>(links below)</strong>.
   </p>
 
@@ -129,14 +129,14 @@ p {
   </p>
 
   <p>
-    <u>Hypernudging</u>: “drawing in Big Data to nudge individuals with personalized feedback to change their behavior” (Lanzing 2019)
+    <u>Hypernudging</u>: “drawing in Big Data to nudge individuals with personalized feedback to change their behavior” (Lanzing 2019, 550)
   </p>
 
   <p>
-    <u>Self-tracking</u>: “Fuelled by real-time data, algorithms create personalized online choice architectures that aim to nudge individual users to effectively change their behavior. ” (Lanzing 2019)
+    <u>Self-tracking</u>: “Fuelled by real-time data, algorithms create personalized online choice architectures that aim to nudge individual users to effectively change their behavior. ” (Lanzing 2019, 550)
   </p>
   
- <p>
+ <p style="margin-right: 20px; text-align: right;">
   *what is a <a href="https://thedecisionlab.com/reference-guide/psychology/choice-architecture">choice architecture</a> anyway
 </p>
 
@@ -254,7 +254,7 @@ p {
  <h4><strong><em>Features of Nudging</em></strong></h4>
  
  <p>
-  1 critique:
+  <strong>1</strong> critique:
   </p>
   
   <p>
@@ -266,22 +266,22 @@ p {
 </p>
 
   <p>
-  2 <heavy>ideal</heavy> features:
+  <strong>2</strong> <heavy>ideal</heavy> features:
   </p>
 
   <p style="margin-left: 20px;">
-  I.Do not compromise individual freedom and autonomy. 
+  i.Do not compromise individual freedom and autonomy. 
   </p>
   
   <p style="margin-left: 20px;">
-  II.Do not reduce/eliminate options, simply re-arranging the individual’s choice architecture so it favors specific options.
+  ii.Do not reduce/eliminate options, simply re-arranging the individual’s choice architecture so it favors specific options.
   </p>
   
   <p>
   How do nudges work?
   </p>
   
-  <p>
+  <p style="margin-left: 20px;">
   Nudges influence and steer decision-making via <u>psychological mechanisms</u>.
   </p>
   
@@ -290,11 +290,11 @@ p {
   </p>
   
   <p style="margin-left: 20px;">
-  I.Bad nudges rip the individual off their <heavy>control</heavy> over their behaviors. 
+  i.Bad nudges rip the individual off their <heavy>control</heavy> over their behaviors. 
   </p>
   
   <p style="margin-left: 20px;">
-  II.Bad nudges are <heavy>hardly noticeable</heavy> and their intentions are opaque, which could be potentially manipulative.
+  ii.Bad nudges are <heavy>hardly noticeable</heavy> and their intentions are opaque, which could be potentially manipulative.
   </p>
   
   <p>
@@ -302,15 +302,15 @@ p {
   </p>
   
   <p style="margin-left: 20px;">
-  I.Good nudges are transparent and straightforward. 
+  i.Good nudges are transparent and straightforward. 
   </p>
   
   <p style="margin-left: 20px;">
-  II.Good nudges are easy to opt out of. 
+  ii.Good nudges are easy to opt out of. 
   </p>
   
   <p style="margin-left: 20px;">
-  III.Good nudges intend to improve the welfare of the nudgee.
+  iii.Good nudges intend to improve the welfare of the nudgee.
   </p>
   
   <img src="https://media4.giphy.com/media/PkR8gPgc2mDlrMSgtu/giphy.gif?cid=ecf05e47n0211111666666666666666666666666666666666666666666666666666666r&ep=v1_gifs_search&rid=giphy" alt="Animated GIF" class="y2k-image">
@@ -332,15 +332,15 @@ p {
 <strong>Data source:</strong> 
   </p>
   
-  <p>
+  <p style="margin-left: 20px;">
 Live data streams + Already stored data
   </p>
   
-  <p>
+  <p style="margin-left: 20px;">
 Your personal data + All the data of other users 
   </p>
 
-  <p>
+  <p style="margin-right: 10px; text-align: right;">
   *Who is <u><a href="https://algocracy.wordpress.com/2017/03/06/episode-20-karen-yeung-on-hypernudging-and-big-data/">Yeung</a></u>?
 </p>
 
@@ -368,14 +368,17 @@ Your personal data + All the data of other users
   <a href="https://www.bankrate.com/personal-finance/what-to-look-for-in-a-financial-wellness-app/">Personalized Financial Advice</a>
 </p>
   
-  <h4><i>Nudge v.s. Hypernudging</i></h4>
+  <h4><i><strong>Nudge v.s. Hypernudging</strong></i></h4>
   
  <style>
   .big-table-text {
     font-size: 1.2em;
   }
   .table-container {
-    margin-bottom: 50px;
+    margin-bottom: 30px;
+    margin-top: 30px;
+    margin-left: 30px; /* Added margin-left */
+  margin-right: 30px; /* Added margin-right */
   }
   .big-table-text table {
     border-collapse: collapse;
@@ -392,24 +395,24 @@ Your personal data + All the data of other users
   <table>
     <thead>
       <tr>
-        <th>features</th>
-        <th>nudges</th>
-        <th>hypernudges</th>
+        <th>Features</th>
+        <th>Nudges</th>
+        <th>Hypernudges</th>
       </tr>
     </thead>
     <tbody>
       <tr>
-        <td>dynamism (the real time, personalized feedback dynamic)</td>
+        <td>Dynamism (the real time, personalized feedback dynamic)</td>
         <td>non-specific, aimed at the general public, "one size fits all"</td>
         <td>one-to-many (millions!), real time, personalized, via surveillance and data collection</td>
       </tr>
       <tr>
-        <td>predictive capacity</td>
+        <td>Predictive Capacity</td>
         <td>no instant feedback and thus no immediate adjustment</td>
         <td>real time algorithmic behavioral predictions and constant reconfiguration based on machine learning and instant feedback</td>
       </tr>
       <tr>
-        <td>hiddenness and hidden intentions (the final, overarching, and most important)</td>
+        <td>Hiddenness and Hidden Intentions (the final, overarching, and most important)</td>
         <td>tucked away but still detectable, "visible" in the physical world</td>
         <td>well-hidden, ubiquitous, unobtrusive, essentially for corporate profit, driven by high-tech</td>
       </tr>
@@ -421,24 +424,24 @@ Your personal data + All the data of other users
   <table>
     <thead>
       <tr>
-        <th>A good Nudge Criteria</th>
-        <th>a nudge</th>
-        <th>a hypernudge</th>
+        <th>A Good Nudge Criteria</th>
+        <th>A Nudge</th>
+        <th>A Hypernudge</th>
       </tr>
     </thead>
     <tbody>
       <tr>
-        <td>transparency</td>
+        <td>Transparency</td>
         <td>low yet detectable</td>
         <td>unobtrusive thus misleading & unjustified</td>
       </tr>
       <tr>
-        <td>easy to opt out of</td>
+        <td>Easy to Opt out</td>
         <td>could be</td>
         <td>highly persuasive, well-hidden, system-default, opting out means quitting the service for good, and the option to opt out might not be clear (enough)</td>
       </tr>
       <tr>
-        <td>welfare for the nudgee</td>
+        <td>Welfare for the Nudgee</td>
         <td>could benefit the nudgee</td>
         <td>essentially for corporate benefit, potentially more aligned with corporate interests</td>
       </tr>
@@ -458,25 +461,35 @@ Your personal data + All the data of other users
   <strong>Related concept:</strong> reasonable expectations (dynamic and context dependent, constitute social norms)
   </p>
   
+ <style>
+  .y2k-image-container {
+    margin-top: 50px; /* Adjust top margin as needed */
+    margin-bottom: 50px; /* Adjust bottom margin as needed */
+    text-align: center; /* Centers the image */
+  }
+</style>
+
+<div class="y2k-image-container">
   <img src="https://media.giphy.com/media/arldiHgOAWyIw/giphy.gif?cid=ecf05e47my57pu9lp9cd6d5ji2dhg5soahm46wfqzey5qgzd&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Animated GIF" class="y2k-image">
+</div>
     
   <h4><strong><em>
   Decisional privacy as a complementary dimension:
   </em></strong></h4>
   
   <p>
-  <strong>Definition:</strong> “the right against unwanted access such as unwanted interference in our decisions and actions (Allen 1988: 97; Roessler 2005: 9)” (Lanzing 2019)
+  <strong>Definition:</strong> “...the right against unwanted access such as unwanted interference in our decisions and actions (Allen 1988: 97; Roessler 2005: 9)” (Lanzing 2019)
   </p>
   
   <p>
   <strong>Descriptions:</strong> 
   </p>
   
-  <p>
+  <p style="padding-left: 20px;">
 Narrow view: “nongovernmental decision-making ”, intimate choices.
   </p>
   
-  <p>
+  <p style="padding-left: 20px;">
 Broad view: fundamental life decisions, actions, modes of behavior, ways of life. 
   </p>
   
@@ -484,15 +497,15 @@ Broad view: fundamental life decisions, actions, modes of behavior, ways of life
 <strong>In relation to autonomy:</strong> 
   </p>
   
-  <p>
+  <p style="padding-left: 20px;">
 “...regulates the access of others in the form of interpretation, objection, commenting, and other forms of intervention in the way you live your life.” (Lanzing 2019)
   </p>
   
-  <p>
+  <p style="padding-left: 20px;">
 “...provides the necessary breathing space to carry out one’s chosen life unhindered in different social contexts, which is important for leading a self-determined life and so, for autonomy (Roessler 2005: 80).” (Lanzing 2019)
   </p>
   
-  <p>
+  <p style="padding-left: 20px;">
 “...protects you from the interference of others, from the “chilling effect”: conforming your actions to perceived social norms out of fear for (social) sanctions. ” (Lanzing 2019)
   </p>
   
@@ -512,23 +525,23 @@ Decisional privacy theories criticize how hypernudges use personal data to indiv
 <strong>Key Takeaway:</strong>
 </p>
 
-<p>
+<p style="padding-left: 20px;">
 The violation of one’s decisional privacy does not entail an immediate loss of personal autonomy. 
-People should be regarded as autonomous agents who are free to make decisions and receive certain interferences depending on the social norms and contexts, however, commercial choice architectures and hypernudges intrude personal autonomy by bringing I commercially driven interferences in contexts where they are not welcome.
+People should be regarded as autonomous agents who are free to make decisions and receive certain interferences depending on the social norms and contexts, however, commercial choice architectures and hypernudges intrude personal autonomy by bringing I commercially driven interference in contexts where they are not welcome.
 </p>
 
 <p>
 <strong>
-interconnection:
+Interconnection:
 </strong>
 </p>
 
-<p>
+<p style="padding-left: 20px;">
 Informational and decisional privacy are both closely related to the protection of individual autonomy as two mutually reinforcing dimensions.
 </p>
 
-<p>
-Violations of informational privacy naturally translate to the violations of one’s decisional privacy
+<p style="padding-left: 20px;">
+Violations of informational privacy naturally translate to the violations of one’s decisional privacy.
 </p>
 
 <figure style="text-align: center;">
@@ -539,33 +552,33 @@ Violations of informational privacy naturally translate to the violations of one
 <h4><strong>Hypernudge and informational privacy violations</strong></h4>
 
 <p style="margin-left: 20px;">
-I.People have no control over their data and data regarding their private decisions, nor the knowledge of how these data are used by commercial enterprises. 
+i.People have no control over their data and data regarding their private decisions, nor the knowledge of how these data are used by commercial enterprises. 
 </p>
 
 <p style="margin-left: 20px;">
-II.Big data-driven corporations and commercial third parties are blurring the boundaries between contexts and norms of sharing and accessing personal information. 
+ii.Big data-driven corporations and commercial third parties are blurring the boundaries between contexts and norms of sharing and accessing personal information. 
 </p>
 
 <p style="margin-left: 20px;">
-III.Past behavioral data and data of an entire-population are used to hypernudge a specific individual, resulting in filter bubbles and collaborate filtering. 
+iii.Past behavioral data and data of an entire-population are used to hypernudge a specific individual, resulting in filter bubbles and collaborate filtering. 
 </p>
 
 <h4><strong>Hypernudge and decisional privacy violations</strong></h4>
 
 <p style="margin-left: 20px;">
-I.Hypernudges interfere people’s decision-making with hidden intentions and effects, people do not know why and how they are manipulated into making a choice that favors a third party.
+i.Hypernudges interfere people’s decision-making with hidden intentions and effects, people do not know why and how they are manipulated into making a choice that favors a third party.
 </p>
 
 <p style="margin-left: 20px;">
-II.Not all options are visible and available to the nudgee, they are preselected by algorithms in favor of those in control of the technology.
+ii.Not all options are visible and available to the nudgee, they are preselected by algorithms in favor of those in control of the technology.
 </p>
 
 <p style="margin-left: 20px;">
-III.No accountability can be held. A nudgee does not know by whom their decisions are steered. 
+iii.No accountability can be held. A nudgee does not know by whom their decisions are steered. 
 </p>
 
 <p style="margin-left: 20px;">
-IV.Hypernudges affect many people in many domains at the same time.  
+iv.Hypernudges affect many people in many domains at the same time.  
 </p>
 
 <h4><strong>Three Objections</strong></h4>

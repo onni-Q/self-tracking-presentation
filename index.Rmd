@@ -472,13 +472,70 @@ Violations of informational privacy naturally translate to the violations of one
   <figcaption>Figure 1: The Hypernudging Feedback Loop</figcaption>
 </figure>
 
+<h4><strong>Hypernudge and informational privacy violations</strong></h4>
+
+<p style="margin-left: 20px;">
+I.People have no control over their data and data regarding their private decisions, nor the knowledge of how these data are used by commercial enterprises. 
+</p>
+
+<p style="margin-left: 20px;">
+II.Big data-driven corporations and commercial third parties are blurring the boundaries between contexts and norms of sharing and accessing personal information. 
+</p>
+
+<p style="margin-left: 20px;">
+III.Past behavioral data and data of an entire-population are used to hypernudge a specific individual, resulting in filter bubbles and collaborate filtering. 
+</p>
+
+<h4><strong>Hypernudge and decisional privacy violations</strong></h4>
+
+<p style="margin-left: 20px;">
+I.Hypernudges interfere people’s decision-making with hidden intentions and effects, people do not know why and how they are manipulated into making a choice that favors a third party.
+</p>
+
+<p style="margin-left: 20px;">
+II.Not all options are visible and available to the nudgee, they are preselected by algorithms in favor of those in control of the technology.
+</p>
+
+<p style="margin-left: 20px;">
+III.No accountability can be held. A nudgee does not know by whom their decisions are steered. 
+</p>
+
+<p style="margin-left: 20px;">
+IV.Hypernudges affect many people in many domains at the same time.  
+</p>
+
+<h4><strong>Three Objections</strong></h4>
+
+<p>
+O1: Some people are willingly sharing there data in order to gain more independence via self-tracking technologies.
+</p>
+
+<p style="margin-left: 20px;">
+Response: a technology that violates an individual’s informational and decisional privacy, and thus their autonomy, can not scaffold one’s autonomy.
+</p>
+
+<p>
+O2: The fact that there are people using such technologies means that they consent to such operations and their effects. 
+</p>
+
+<p style="margin-left: 20px;">
+Response: people consent to self-tracking technologies but their consents are no longer meaningful and informed. 
+</p>
+
+<p>
+O3:Simply not using self-tracking technologies seems to be the most effective strategy.
+</p>
+
+<p style="margin-left: 20px;">
+Response: not everyone can afford to fully opt out, let alone self-tracking technologies are becoming institutionalized. This simply avoids the issue rather than solving it. 
+</p>
 
 </div>
 
 <div class="section">
   <h2>Conclusion and Further Yappin Session</h2>
   <p>
-    In conclusion, this paper shows us how important it is to be aware of privacy issues in the digital world. Let's all be more mindful of our online choices! Thanks for checking out my awesome website!
+   post the discussion question right here
   </p>
   <img src="https://media1.giphy.com/media/3o6fJd6iEkL8Ys7tsY/giphy.gif?cid=ecf05e47p598p918r07j559555077797888878888888888888r&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Animated GIF" class="y2k-image">
 </div>

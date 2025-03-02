@@ -384,8 +384,10 @@ Your personal data + All the data of other users
   
   <h3>Decisional and Informational Privacy</h3>
   
+  <h4><strong><em>Informational Privacy</em></strong></h4>
+  
   <p>
-   Informational privacy: “the ability to control who has access to one’s personal information and to what extent (Westin 1967)" (Lanzing 2019)
+   Definition: “the ability to control who has access to one’s personal information and to what extent (Westin 1967)" (Lanzing 2019)
   </p>
   
   <p>
@@ -394,9 +396,9 @@ Your personal data + All the data of other users
   
   <img src="https://media.giphy.com/media/arldiHgOAWyIw/giphy.gif?cid=ecf05e47my57pu9lp9cd6d5ji2dhg5soahm46wfqzey5qgzd&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Animated GIF" class="y2k-image">
     
-  <p>
+  <h4><strong><em>
   Decisional privacy as a complementary dimension:
-  </p>
+  </em></strong></h4>
   
   <p>
   Definition: “the right against unwanted access such as unwanted interference in our decisions and actions (Allen 1988: 97; Roessler 2005: 9)” (Lanzing 2019)
@@ -415,7 +417,7 @@ Broad view: fundamental life decisions, actions, modes of behavior, ways of life
   </p>
   
   <p>
-In relation to autonomy: 
+<strong>In relation to autonomy:</strong> 
   </p>
   
   <p>
@@ -431,7 +433,7 @@ In relation to autonomy:
   </p>
   
   <p>
-In relation to hypernudging: 
+<strong>In relation to hypernudging:</strong> 
   </p>
   
   <p>
@@ -443,13 +445,33 @@ Decisional privacy theories criticize how hypernudges use personal data to indiv
 </p>
 
 <p>
-Key Takeaway:
+<strong>Key Takeaway:</strong>
 </p>
 
 <p>
 The violation of one’s decisional privacy does not entail an immediate loss of personal autonomy. 
 People should be regarded as autonomous agents who are free to make decisions and receive certain interferences depending on the social norms and contexts, however, commercial choice architectures and hypernudges intrude personal autonomy by bringing I commercially driven interferences in contexts where they are not welcome.
 </p>
+
+<p>
+<strong>
+interconnection:
+</strong>
+</p>
+
+<p>
+Informational and decisional privacy are both closely related to the protection of individual autonomy as two mutually reinforcing dimensions.
+</p>
+
+<p>
+Violations of informational privacy naturally translate to the violations of one’s decisional privacy
+</p>
+
+<figure style="text-align: center;">
+  <img src="/Users/olenonniboi/Desktop/Ethics of Privacy/Week_4/presentation lanzing/13347_2018_316_Fig1_HTML.jpg" alt="Example: the hypernudging feedback loop" width="250" style="display: block; margin: 50px auto;">
+  <figcaption>Figure 1: The Hypernudging Feedback Loop</figcaption>
+</figure>
+
 
 </div>
 

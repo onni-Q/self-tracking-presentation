@@ -189,11 +189,11 @@ p {
 
   <h3>Self-Tracking</h3>
   <p style="margin-left: 20px; padding-right: 20px; text-indent: 20px;">
-    <strong>Also Known As:</strong>  “life-logging, quantified self, personal analytics, and personal informatics” (Lanzing 2019) 
+    <strong>Also Known As:</strong>  “life-logging, quantified self, personal analytics, and personal informatics” (Lanzing 2019, 551) 
   </p>
 
   <p style="margin-left: 20px; padding-right: 20px; text-indent: 20px;">
-  <strong>Definition:</strong> “the practice of quantifying behavior through extensive self-surveillance for the purpose of behavioral change”  (Lanzing 2019)
+  <strong>Definition:</strong> “the practice of quantifying behavior through extensive self-surveillance for the purpose of behavioral change”  (Lanzing 2019, 551)
   </p>
   
   <p style="margin-left: 20px; padding-right: 20px; text-indent: 20px;">
@@ -218,7 +218,7 @@ p {
 </div>
 
    <p class="y2k-quote" style="margin-top: 30px; text-indent: 20px;">
-  “Big Data has enabled “personalized” choice architectures: choice architectures that are designed according to user data feedback. Personalized feedback in self-tracking is based on the analysis of large aggregates of (personal) information or “Big Data,” also referred to as personal analytics. The analysis aims to identify patterns and interesting correlations in the data. Based on the analysis, many devices, and apps make suggestions to their users about how they can change or improve their behavior, what choices to make.” (Lanzing 2019)
+  “Big Data has enabled “personalized” choice architectures: choice architectures that are designed according to user data feedback. Personalized feedback in self-tracking is based on the analysis of large aggregates of (personal) information or “Big Data,” also referred to as personal analytics. The analysis aims to identify patterns and interesting correlations in the data. Based on the analysis, many devices, and apps make suggestions to their users about how they can change or improve their behavior, what choices to make.” (Lanzing 2019, 552)
 </p>
   
   <p style="margin-top: 20px;text-indent: 20px;">
@@ -258,7 +258,7 @@ p {
   </p>
   
   <p class="y2k-quote" style="margin-top: 30px; text-indent: 20px;">
-“Manipulation, as I understand it here, refers to the intentional but “hidden” steering of people’s choices by promoting and shaping decision-making processes that persons generally would not use for making rational decisions (Wilkinson 2013: 347; Goodin 1980: 17).” (Lanzing 2019)
+“Manipulation, as I understand it here, refers to the intentional but “hidden” steering of people’s choices by promoting and shaping decision-making processes that persons generally would not use for making rational decisions (Wilkinson 2013: 347; Goodin 1980: 17).” (Lanzing 2019, 553)
   </p>
 
   <p style="margin-top: 30px;">
@@ -318,11 +318,11 @@ p {
   </p>
   
   <p style="margin-left: 20px; padding-right: 20px; text-indent: 20px;">
-<strong>Definition:</strong> “the <u>algorithmic real-time personalization and reconfiguration</u> of choice architectures based on large aggregates of (personal) data.” (Lanzing 2019) 
+<strong>Definition:</strong> “the <u>algorithmic real-time personalization and reconfiguration</u> of choice architectures based on large aggregates of (personal) data.” (Lanzing 2019, 553) 
   </p>
   
   <p class="y2k-quote" style="margin-top: 30px; text-indent: 20px;">
-By constantly (re)-configuring and thereby personalizing the user’s informational choice context, typically through <strong>algorithmic analysis of data streams from multiple sources</strong> claiming to offer predictive insights concerning the habits, preferences, and interests of targeted individuals, these nudges channel users choices in directions <strong>preferred by the choice architect</strong> through processes that are subtle, unobtrusive, yet extraordinarily powerful (Yeung 2017: 119). (Lanzing 2019)
+By constantly (re)-configuring and thereby personalizing the user’s informational choice context, typically through <strong>algorithmic analysis of data streams from multiple sources</strong> claiming to offer predictive insights concerning the habits, preferences, and interests of targeted individuals, these nudges channel users choices in directions <strong>preferred by the choice architect</strong> through processes that are subtle, unobtrusive, yet extraordinarily powerful (Yeung 2017: 119). (Lanzing 2019, 553)
   </p>
 
 <p style="margin-right: 10px; text-align: right;">
@@ -451,7 +451,7 @@ Your personal data + All the data of other users
   <h4><strong><em>Informational Privacy</em></strong></h4>
   
   <p style="margin-left: 20px; padding-right: 20px; text-indent: 20px;">
-   <strong>Definition:</strong> “the ability to control who has access to one’s personal information and to what extent (Westin 1967)" (Lanzing 2019)
+   <strong>Definition:</strong> “the ability to control who has access to one’s personal information and to what extent (Westin 1967)" (Lanzing 2019, 556)
   </p>
   
   <p style="margin-left: 20px; padding-right: 20px; text-indent: 20px;">
@@ -475,7 +475,7 @@ Your personal data + All the data of other users
   </em></strong></h4>
   
   <p style="margin-left: 20px; padding-right: 20px;">
-  <strong>Definition:</strong> “...the right against unwanted access such as unwanted interference in our decisions and actions (Allen 1988: 97; Roessler 2005: 9)” (Lanzing 2019)
+  <strong>Definition:</strong> “...the right against unwanted access such as unwanted interference in our decisions and actions (Allen 1988: 97; Roessler 2005: 9)” (Lanzing 2019, 556)
   </p>
   
   <p style="margin-left: 20px;">
@@ -495,15 +495,15 @@ Broad view: fundamental life decisions, actions, modes of behavior, ways of life
   </p>
   
   <p style="margin-left: 20px; padding-right: 20px; text-indent: 20px;">
-“...regulates the access of others in the form of interpretation, objection, commenting, and other forms of intervention in the way you live your life.” (Lanzing 2019)
+“...regulates the access of others in the form of interpretation, objection, commenting, and other forms of intervention in the way you live your life.” (Lanzing 2019, 557)
   </p>
   
   <p style="margin-left: 20px; padding-right: 20px; text-indent: 20px;">
-“...provides the necessary breathing space to carry out one’s chosen life unhindered in different social contexts, which is important for leading a self-determined life and so, for autonomy (Roessler 2005: 80).” (Lanzing 2019)
+“...provides the necessary breathing space to carry out one’s chosen life unhindered in different social contexts, which is important for leading a self-determined life and so, for autonomy (Roessler 2005: 80).” (Lanzing 2019, 557)
   </p>
   
   <p style="margin-left: 20px; padding-right: 20px; text-indent: 20px;">
-“...protects you from the interference of others, from the “chilling effect”: conforming your actions to perceived social norms out of fear for (social) sanctions. ” (Lanzing 2019)
+“...protects you from the interference of others, from the “chilling effect”: conforming your actions to perceived social norms out of fear for (social) sanctions. ” (Lanzing 2019, 557)
   </p>
   
   <p>
@@ -515,7 +515,7 @@ Decisional privacy theories criticize how hypernudges use personal data to indiv
   </p>
 
 <p class="y2k-quote" style="margin-top: 30px; text-indent: 20px;">
- Decisional privacy concerns should therefore not be reduced to or merely understood in terms of informational privacy concerns. Decisional privacy could be a promising complementary conceptual tool for criticizing hypernudging. (Lanzing 2019)
+ Decisional privacy concerns should therefore not be reduced to or merely understood in terms of informational privacy concerns. Decisional privacy could be a promising complementary conceptual tool for criticizing hypernudging. (Lanzing 2019, 557)
 </p>
 
 <p style="margin-top: 30px;">

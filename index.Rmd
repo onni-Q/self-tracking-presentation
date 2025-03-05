@@ -250,7 +250,7 @@ p {
  <h4><strong><em>Features of Nudging</em></strong></h4>
  
  <p>
-  <strong>1</strong> critique:
+  <strong>1</strong> Critique:
   </p>
   
   <p style="margin-left: 20px; padding-right: 20px; text-indent: 20px;">
@@ -258,11 +258,11 @@ p {
   </p>
   
   <p class="y2k-quote" style="margin-top: 30px; text-indent: 20px;">
-“Manipulation, as I understand it here, refers to the intentional but “hidden” steering of people’s choices by promoting and shaping decision-making processes that persons generally would not use for making rational decisions (Wilkinson 2013: 347; Goodin 1980: 17).” (Lanzing 2019, 553)
+“Manipulation, as I understand it here, refers to the <strong>intentional but “hidden” steering</strong> of people’s choices by promoting and shaping decision-making processes that persons generally would not use for making rational decisions (Wilkinson 2013: 347; Goodin 1980: 17).” (Lanzing 2019, 553)
   </p>
 
   <p style="margin-top: 30px;">
-  <strong>2</strong> <heavy>ideal</heavy> features:
+  <strong>2</strong> <heavy>Ideal</heavy> Features:
   </p>
 
   <p style="margin-left: 20px; padding-right: 20px; text-indent: 20px;">
@@ -318,7 +318,7 @@ p {
   </p>
   
   <p style="margin-left: 20px; padding-right: 20px; text-indent: 20px;">
-<strong>Definition:</strong> “the <u>algorithmic real-time personalization and reconfiguration</u> of choice architectures based on large aggregates of (personal) data.” (Lanzing 2019, 553) 
+<strong>Definition:</strong> “the <u>algorithmic real-time personalization and reconfiguration</u> of choice architectures based on large aggregates of (personal) data” (Lanzing 2019, 553) 
   </p>
   
   <p class="y2k-quote" style="margin-top: 30px; text-indent: 20px;">
@@ -608,8 +608,14 @@ iv.Hypernudges affect many people in many domains at the same time.
 
 <div class="section">
   <h2>Conclusion and Yappin Session</h2>
-  <p>
-   post the discussion question right here
+  
+  <p style="margin-left: 20px; padding-right: 20px; text-indent: 20px;">
+   Q1: The paper suggests that hypernudges might be fundamentally at odds with the criteria for good nudges. 
+<strong>Are hypernudges manipulative by nature or could they be designed without compromising ethical boundaries?</strong>Could we think of a version of self-tracking technology that <strong>preserves autonomy while still being personalized and data driven?</strong>
+  </p>
+  
+  <p style="margin-left: 20px; padding-right: 20px; text-indent: 20px;">
+  Q2: Self-tracking requires users to put in their own data for it to function. Is there really a breach of decisional privacy <strong>if users voluntarily choose to participate?</strong>
   </p>
 
 <div style="margin-top: 30px; display: flex; align-items: center; justify-content: center;">

@@ -615,7 +615,7 @@ iv.Hypernudges affect many people in many domains at the same time.
   </p>
   
   <p style="margin-left: 20px; padding-right: 20px; text-indent: 20px;">
-  Q2: Self-tracking requires users to put in their own data for it to function. Is there really a breach of decisional privacy <strong>if users voluntarily choose to participate?</strong>
+  Q2: Self-tracking requires users to put in their own data for it to function. Is there really a breach of decisional privacy <strong>if users voluntarily choose to participate?</strong>.
   </p>
 
 <div style="margin-top: 30px; display: flex; align-items: center; justify-content: center;">
